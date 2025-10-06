@@ -26,8 +26,10 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/yuvaranianbu
-- Email: yuvaranianbu27@gmail.com
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/yuvaranianbu)
+
+
+
 
 ---
 
