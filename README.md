@@ -29,7 +29,7 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvaranianbu27)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvaranianbu)
 
 [![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
 
