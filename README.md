@@ -8,7 +8,7 @@ I am a passionate **Full Stack Java Developer** and **Technical Support Engineer
 - API Integration & Microservices
 - React Js, HTML, CSS, JavaScript, Material UI, Tailwind CSS
 - SQL & Database Management
-- Spring Cloud, Spring Security, JWT< OAuth2
+- Spring Cloud, Spring Security, JWT , OAuth2
 - API Doucumentation, Swagger, JUnit, Mockito
 - Agile Scrum Methodology  
 - Version Control (Git & GitHub)
