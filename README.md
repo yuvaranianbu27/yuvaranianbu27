@@ -36,9 +36,6 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 [![Email](https://img.shields.io/badge/GMAIL-yuvaranianbu27@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
 
 
-📧 [yuvaranianbu27@gmail.com](mailto:yuvaranianbu27@gmail.com)
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
-
 
 
 
