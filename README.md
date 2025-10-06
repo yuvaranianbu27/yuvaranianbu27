@@ -4,6 +4,8 @@ I am a passionate **Full Stack Java Developer** and **Technical Support Engineer
 ----
 
 ## 💼 Skills & Technologies
+
+
 - Java, J2EE, Spring Boot, REST APIS
 - API Integration & Microservices
 - React Js, HTML, CSS, JavaScript, Material UI, Tailwind CSS
@@ -26,7 +28,7 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 
 
-
+---
 
 ## 📫 Connect with me
 
@@ -34,9 +36,6 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 
 [![Email](https://img.shields.io/badge/GMAIL-yuvaranianbu27@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
-
-
-
 
 
 ---
