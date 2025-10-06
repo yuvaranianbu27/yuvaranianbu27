@@ -19,7 +19,8 @@ I am a passionate **Full Stack Java Developer** and **Technical Support Engineer
 ---
 
 ## 🚀 Projects
-- **Email Reply Genie** – An AI-powered assistant that crafts smart, tone-aware email replies
+
+- 🤖 [Email Reply Genie](https://github.com/yuvaranianbu27/email-reply-genie) – An AI-powered assistant that crafts smart, tone-aware email replies.
 
 Explore my code and contributions here: [GitHub Repositories](https://github.com/yuvaranianbu27)
 
