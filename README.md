@@ -26,7 +26,7 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 
 ## 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/yuvaranianbu)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvaranianbu)
 
 
 
