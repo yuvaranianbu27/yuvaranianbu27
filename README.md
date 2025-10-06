@@ -25,8 +25,13 @@ Explore my code and contributions here: [GitHub Repositories](https://github.com
 
 
 
+
+
 ## 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvaranianbu)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvaranianbu27)
+
+[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
 
 
 
