@@ -25,7 +25,7 @@ I am a passionate **Full Stack Java Developer** and **Technical Support Engineer
 - 🤖 [Email Reply Genie](https://github.com/yuvaranianbu27/email-reply-genie) – An AI-powered assistant that crafts smart, tone-aware email replies.
 -  [YR Store](https://github.com/yuvaranianbu27/Yr-Store) – IT is a modern, Full Stack e-commerce platform built to deliver a smooth and intuitive shopping experience.
 
-Explore my code and contributions here: [GitHub Repositories](https://github.com/yuvaranianbu27)
+Explore my code and contributions here: [GitHub Repositories](https://github.com/yuvaranianbu27?tab=repositories)
 
 
 
