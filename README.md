@@ -42,8 +42,11 @@ I’m a **Full-Stack Java Developer** with **5 years of hands-on experience** bu
 
 | Project | What it does |
 | --- | --- |
-| 🤖 **[Email Reply Genie](https://github.com/yuvaranianbu27/email-reply-genie)** | An AI-powered assistant for thoughtful, tone-aware email replies. |
-| 🛍️ **[YR Store](https://github.com/yuvaranianbu27/Yr-Store)** | A full-stack e-commerce platform focused on a smooth shopping experience. |
+| 🌍 **[GeoPulse](https://github.com/yuvaranianbu27/geopulse)** | A Java and Kafka prototype for event-driven driver-location ingestion. |
+| 📒 **[LedgerX](https://github.com/yuvaranianbu27/LedgerX)** | A Java ledger domain foundation for accounts, transactions, and journal entries. |
+| 🤖 **[Email Reply Genie](https://github.com/yuvaranianbu27/Email-Reply-Genie)** | An AI-powered assistant for thoughtful, tone-aware email replies. |
+| 🛍️ **[YR Store](https://github.com/yuvaranianbu27/YR-Store)** | A full-stack e-commerce application with a React storefront and Spring Boot API. |
+| 🔐 **[CryptoPulse](https://github.com/yuvaranianbu27/CryptoPulse)** | A crypto application backend prototype with account and authentication scaffolding. |
 
 <div align="center">
   <a href="https://github.com/yuvaranianbu27?tab=repositories"><strong>Explore all repositories →</strong></a>
