@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Yuvarani Anbu — Full-Stack Java Developer</title>
+  <desc id="description">A dark navy developer-themed banner with Java, Spring, and React accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11152a"/>
+      <stop offset="0.58" stop-color="#1b1d3b"/>
+      <stop offset="1" stop-color="#202b46"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8a1ff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#7de0df" stop-opacity=".75"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#c7c9ed" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="88" r="155" fill="#8b7cff" opacity=".09"/>
+  <circle cx="1090" cy="265" r="125" fill="#7de0df" opacity=".07"/>
+  <path d="M0 284C220 235 355 344 592 284s376-62 608 10" fill="none" stroke="url(#glow)" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M0 303C240 250 385 359 628 300s377-57 572 6" fill="none" stroke="url(#glow)" stroke-opacity=".18" stroke-width="1"/>
+  <rect x="72" y="73" width="4" height="194" rx="2" fill="url(#glow)"/>
+  <text x="105" y="125" fill="#7de0df" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">FULL-STACK JAVA DEVELOPER</text>
+  <text x="101" y="194" fill="#f4f5fb" font-family="Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Yuvarani Anbu</text>
+  <text x="105" y="232" fill="#b7bad0" font-family="Arial, sans-serif" font-size="19">Building reliable services &amp; thoughtful web experiences</text>
+  <g transform="translate(824 104)">
+    <rect width="274" height="139" rx="15" fill="#111528" fill-opacity=".78" stroke="#c7c9ed" stroke-opacity=".18"/>
+    <circle cx="23" cy="22" r="4" fill="#ff8d9b"/>
+    <circle cx="38" cy="22" r="4" fill="#ffd580"/>
+    <circle cx="53" cy="22" r="4" fill="#7de0df"/>
+    <path d="M24 49h53M24 70h108M24 91h73M24 112h129" stroke="#b8a1ff" stroke-linecap="round" stroke-opacity=".8" stroke-width="5"/>
+    <path d="M91 49h89M149 70h90M112 91h105M169 112h76" stroke="#7de0df" stroke-linecap="round" stroke-opacity=".65" stroke-width="5"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13" font-weight="700">
+    <rect x="823" y="267" width="67" height="28" rx="14" fill="#392b25" stroke="#ed8b00" stroke-opacity=".65"/>
+    <text x="856.5" y="286" fill="#ffbd75" text-anchor="middle">JAVA</text>
+    <rect x="902" y="267" width="88" height="28" rx="14" fill="#1e382b" stroke="#6db33f" stroke-opacity=".65"/>
+    <text x="946" y="286" fill="#a7e28b" text-anchor="middle">SPRING</text>
+    <rect x="1002" y="267" width="75" height="28" rx="14" fill="#1c3541" stroke="#61dafb" stroke-opacity=".65"/>
+    <text x="1039.5" y="286" fill="#91e7ff" text-anchor="middle">REACT</text>
+  </g>
+</svg>
