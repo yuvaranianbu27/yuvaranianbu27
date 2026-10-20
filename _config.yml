@@ -1,0 +1,16 @@
+title: Yuvarani Anbu | Full-Stack Java Developer
+description: Full-stack Java developer building reliable backend services and polished web experiences.
+url: https://yuvaranianbu27.github.io
+baseurl: /yuvaranianbu27
+markdown: kramdown
+permalink: pretty
+
+author:
+  name: Yuvarani Anbu
+  email: yuvaranianbu27@gmail.com
+  linkedin: yuvaranianbu
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

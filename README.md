@@ -1,44 +1,39 @@
-# Hey, I'm Yuvarani Anbu 👋
-I am a passionate **Full Stack Java Developer**  with 5 years hands-on experience in frontend & backend development, API integration, and enterprise-grade solutions. I thrive on building scalable systems, debugging complex issues, and delivering polished user experiences.
+# Hi, I'm Yuvarani Anbu 👋
 
-----
+### Full-Stack Java Developer
 
-## 💼 Skills & Technologies
+I’m a full-stack Java developer with **5 years of hands-on experience** building backend services, integrating APIs, and creating user-focused web applications. I enjoy solving complex technical problems and developing reliable, scalable solutions.
 
-
-- Java, J2EE, Spring Boot, REST APIS
-- API Integration & Microservices
-- React Js, HTML, CSS, JavaScript, Material UI, Tailwind CSS
-- SQL & Database Management
-- Spring Cloud, Spring Security, JWT , OAuth2
-- API Doucumentation, Swagger, JUnit, Mockito
-- Agile Scrum Methodology  
-- Version Control (Git & GitHub)
-- Cloud Tech (AWS, Docker, Jenkins)
-- Technical Support & Troubleshooting
-- Log Analysis, Prometheus, Grafana Ticketing Systems
+🌐 **[Visit my portfolio](https://yuvaranianbu27.github.io/yuvaranianbu27/)** · **[Explore my repositories](https://github.com/yuvaranianbu27?tab=repositories)**
 
 ---
 
-## 🚀 Projects
+## 💻 Skills & Technologies
 
-- 🤖 [Email Reply Genie](https://github.com/yuvaranianbu27/email-reply-genie) – An AI-powered assistant that crafts smart, tone-aware email replies.
--  [YR Store](https://github.com/yuvaranianbu27/Yr-Store) – IT is a modern, Full Stack e-commerce platform built to deliver a smooth and intuitive shopping experience.
-
-Explore my code and contributions here: [GitHub Repositories](https://github.com/yuvaranianbu27?tab=repositories)
-
-
-
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvaranianbu)
-
-
-[![Email](https://img.shields.io/badge/GMAIL-yuvaranianbu27@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
-
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, J2EE, Spring Boot, Spring Cloud, Spring Security, REST APIs, Microservices |
+| Frontend | React, JavaScript, HTML, CSS, Material UI, Tailwind CSS |
+| Data & Security | SQL, JWT, OAuth 2.0 |
+| Testing & API Tools | JUnit, Mockito, Swagger, API documentation |
+| Cloud & DevOps | AWS, Docker, Jenkins, Git, GitHub |
+| Monitoring & Delivery | Prometheus, Grafana, log analysis, Agile/Scrum, technical support and troubleshooting |
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out for collaboration or job opportunities.
+## 🚀 Featured Projects
+
+### [Email Reply Genie](https://github.com/yuvaranianbu27/email-reply-genie)
+An AI-powered assistant that helps create thoughtful, tone-aware email replies.
+
+### [YR Store](https://github.com/yuvaranianbu27/Yr-Store)
+A full-stack e-commerce platform designed to provide a smooth and intuitive shopping experience.
+
+---
+
+## 🤝 Let’s Connect
+
+I’m happy to connect about software development, collaboration, and career opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuvaranianbu)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yuvaranianbu27@gmail.com)
