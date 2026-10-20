@@ -96,6 +96,43 @@ description: Full-stack Java developer with five years of experience in backend 
   <a class="all-projects" href="https://github.com/yuvaranianbu27?tab=repositories">More on GitHub <span aria-hidden="true">↗</span></a>
 </section>
 
+<section class="section certifications-section" id="certifications">
+  <div class="section-heading">
+    <p class="eyebrow">Learning &amp; recognition</p>
+    <h2>Certifications</h2>
+    <p class="section-intro">Credentials and participation recognition from HackerRank and Digital Dubai Authority.</p>
+  </div>
+  <div class="certification-list">
+    <article class="certification-card">
+      <div class="certification-mark" aria-hidden="true">DD</div>
+      <div class="certification-details">
+        <p class="certification-issuer">Digital Dubai Authority · Participation</p>
+        <h3>DubaiNow - UnifyApps</h3>
+        <p>Participation Certificate · June 2026</p>
+      </div>
+      <a class="certification-link" href="https://skills.dubai.ae/verification/YXR0YWNobWVudElkPTRhNTNmNTcyLTFlZWEtNGEwNS1hMGVmLTM1MjE2MTcxYjA5NiZsZWFybmluZ0FjdGl2aXR5SWQ9MzUzODcmbGVhcm5lclVzZXJJZD04MDU3Nzg=">Verify <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="certification-card">
+      <div class="certification-mark hackerrank-mark" aria-hidden="true">H</div>
+      <div class="certification-details">
+        <p class="certification-issuer">HackerRank · February 2022</p>
+        <h3>Java</h3>
+        <p>Skill certification</p>
+      </div>
+      <a class="certification-link" href="https://www.hackerrank.com/certificates/96e3dbeda218">View certificate <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="certification-card">
+      <div class="certification-mark hackerrank-mark" aria-hidden="true">H</div>
+      <div class="certification-details">
+        <p class="certification-issuer">HackerRank · March 2022</p>
+        <h3>SQL</h3>
+        <p>Skill certification</p>
+      </div>
+      <a class="certification-link" href="https://www.hackerrank.com/certificates/68b0fb9b76f7">View certificate <span aria-hidden="true">↗</span></a>
+    </article>
+  </div>
+</section>
+
 <section class="contact-section" id="contact">
   <p class="eyebrow">Have a project in mind?</p>
   <h2>Let’s build something <span>meaningful.</span></h2>

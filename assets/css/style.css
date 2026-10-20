@@ -177,6 +177,37 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 .project-card > a span, .all-projects span { margin-left: .4rem; }
 .all-projects { display: inline-block; margin-top: 1.5rem; }
 
+.certifications-section { padding-top: 4rem; }
+.certification-list { display: grid; gap: .85rem; margin-top: 2.5rem; }
+.certification-card {
+  display: grid;
+  grid-template-columns: 52px 1fr auto;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.15rem 1.35rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: linear-gradient(110deg, var(--surface), rgba(23, 28, 48, .55));
+}
+.certification-mark {
+  display: grid;
+  width: 48px;
+  height: 48px;
+  place-items: center;
+  border-radius: 12px;
+  background: rgba(125, 224, 223, .1);
+  color: var(--cyan);
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+}
+.hackerrank-mark { background: rgba(184, 161, 255, .12); color: var(--accent); }
+.certification-issuer { margin: 0 0 .2rem; color: var(--cyan); font-size: .75rem; }
+.certification-details h3 { margin: 0 0 .2rem; font-size: 1.05rem; }
+.certification-details > p:last-child { margin: 0; color: var(--muted); font-size: .82rem; }
+.certification-link { color: var(--text); font-size: .82rem; font-weight: 700; white-space: nowrap; }
+.certification-link:hover { color: var(--cyan); }
+.certification-link span { margin-left: .25rem; }
+
 .contact-section { padding: 5rem max(1.5rem, calc((100% - var(--content)) / 2)); background: linear-gradient(120deg, #242044, #17223a 72%); border-top: 1px solid rgba(184, 161, 255, .2); border-bottom: 1px solid rgba(184, 161, 255, .2); }
 .contact-section h2 { max-width: 700px; }
 .contact-section > p:not(.eyebrow) { max-width: 600px; margin-bottom: 1.7rem; color: var(--muted); }
@@ -198,7 +229,7 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 @media (max-width: 560px) {
   .site-header, .site-footer, .hero, .section { width: min(100% - 2rem, var(--content)); }
   .site-header { height: 72px; }
-  nav { gap: .8rem; font-size: .78rem; }
+  nav { gap: .65rem; font-size: .72rem; }
   nav a:nth-child(1), nav a:nth-child(2) { display: none; }
   .hero { padding-top: 2.5rem; }
   .hero-art { min-height: 280px; }
@@ -212,6 +243,9 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
   .section { padding: 4rem 0; }
   .skill-grid, .project-grid { grid-template-columns: 1fr; }
   .skill-card { min-height: 0; }
+  .certification-card { grid-template-columns: 42px 1fr; gap: .8rem; padding: 1rem; }
+  .certification-mark { width: 40px; height: 40px; }
+  .certification-link { grid-column: 2; }
   .contact-section { padding: 4rem 1rem; }
   .site-footer { align-items: flex-start; flex-direction: column; justify-content: center; gap: .25rem; padding: 1rem 0; }
 }

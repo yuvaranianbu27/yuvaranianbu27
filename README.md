@@ -31,6 +31,14 @@ A full-stack e-commerce platform designed to provide a smooth and intuitive shop
 
 ---
 
+## 🏅 Certifications
+
+- [Java - HackerRank](https://www.hackerrank.com/certificates/96e3dbeda218) · February 2022
+- [SQL - HackerRank](https://www.hackerrank.com/certificates/68b0fb9b76f7) · March 2022
+- [DubaiNow - UnifyApps Participation Certificate - Digital Dubai Authority](https://skills.dubai.ae/verification/YXR0YWNobWVudElkPTRhNTNmNTcyLTFlZWEtNGEwNS1hMGVmLTM1MjE2MTcxYjA5NiZsZWFybmluZ0FjdGl2aXR5SWQ9MzUzODcmbGVhcm5lclVzZXJJZD04MDU3Nzg=) · June 2026
+
+---
+
 ## 🤝 Let’s Connect
 
 I’m happy to connect about software development, collaboration, and career opportunities.
