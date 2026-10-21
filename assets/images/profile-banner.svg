@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
-  <title id="title">Yuvarani Anbu — Full-Stack Java Developer</title>
+  <title id="title">Yuvarani Anbu — Java Developer and Backend Engineer</title>
   <desc id="description">A dark navy developer-themed banner with a glowing connected-services illustration and floating technology badges for Java, Spring Boot, React, JavaScript, SQL, MySQL, Oracle, AWS, Docker, Jenkins, and microservices.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -22,7 +22,7 @@
   <path d="M0 284C220 235 355 344 592 284s376-62 608 10" fill="none" stroke="url(#glow)" stroke-opacity=".35" stroke-width="2"/>
   <path d="M0 303C240 250 385 359 628 300s377-57 572 6" fill="none" stroke="url(#glow)" stroke-opacity=".18" stroke-width="1"/>
   <rect x="72" y="73" width="4" height="194" rx="2" fill="url(#glow)"/>
-  <text x="105" y="125" fill="#7de0df" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">FULL-STACK JAVA DEVELOPER</text>
+  <text x="105" y="125" fill="#7de0df" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">JAVA DEVELOPER · BACKEND ENGINEER</text>
   <text x="101" y="194" fill="#f4f5fb" font-family="Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Yuvarani Anbu</text>
   <text x="105" y="232" fill="#b7bad0" font-family="Arial, sans-serif" font-size="19">Building reliable services &amp; thoughtful web experiences</text>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
