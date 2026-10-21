@@ -279,6 +279,12 @@ description: Java developer and backend engineer with 5 years of experience buil
   <p>I’m open to connecting about software development, collaboration, and career opportunities.</p>
   <div class="contact-actions">
     <a class="button button-light" href="mailto:yuvaranianbu27@gmail.com">Email me <span aria-hidden="true">↗</span></a>
-    <a class="social-link" href="https://www.linkedin.com/in/yuvaranianbu">LinkedIn <span aria-hidden="true">↗</span></a>
+    <a class="button button-linkedin" href="https://www.linkedin.com/in/yuvaranianbu" target="_blank" rel="noopener noreferrer" aria-label="Connect with Yuvarani Anbu on LinkedIn">
+      <svg class="linkedin-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M20.45 2H3.55C2.69 2 2 2.68 2 3.52v16.96c0 .84.69 1.52 1.55 1.52h16.9c.86 0 1.55-.68 1.55-1.52V3.52c0-.84-.69-1.52-1.55-1.52ZM7.93 18.74H4.95V9.16h2.98v9.58ZM6.44 7.85a1.73 1.73 0 1 1 0-3.46 1.73 1.73 0 0 1 0 3.46Zm12.3 10.89h-2.97v-4.66c0-1.11-.02-2.54-1.55-2.54-1.55 0-1.79 1.21-1.79 2.46v4.74H9.46V9.16h2.85v1.31h.04c.4-.75 1.37-1.55 2.82-1.55 3.02 0 3.57 1.99 3.57 4.58v5.24Z"/>
+      </svg>
+      <span>Connect on LinkedIn</span>
+      <span aria-hidden="true">↗</span>
+    </a>
   </div>
 </section>

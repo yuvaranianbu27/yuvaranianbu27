@@ -125,6 +125,9 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 .button-primary:hover { background: #cbbcff; }
 .button-secondary { border-color: var(--line); color: var(--text); }
 .button-secondary:hover { border-color: var(--accent); }
+.button-linkedin { gap: .65rem; border-color: rgba(255, 255, 255, .16); background: #0a66c2; color: #fff; box-shadow: 0 8px 24px rgba(10, 102, 194, .22); }
+.button-linkedin:hover { border-color: rgba(255, 255, 255, .34); background: #0b74d8; box-shadow: 0 12px 30px rgba(10, 102, 194, .32); }
+.linkedin-icon { width: 19px; height: 19px; flex: 0 0 auto; }
 .hero-meta { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 2rem; }
 .hero-meta span { padding: .3rem .65rem; border: 1px solid var(--line); border-radius: 99px; color: var(--muted); font-size: .75rem; }
 
