@@ -19,14 +19,33 @@ description: Java developer and backend engineer with 5 years of experience buil
       <span>Dubai, UAE</span>
     </div>
   </div>
-  <div class="hero-art" aria-hidden="true">
+  <div class="hero-art" role="img" aria-label="Yuvarani Anbu surrounded by icons for Java, Spring Boot, React, JavaScript, HTML, CSS, SQL, Redux, Tailwind CSS, MySQL, Oracle, Redis, Kafka, AWS, Docker, Kubernetes, and Jenkins.">
     <div class="orbit orbit-one"></div>
     <div class="orbit orbit-two"></div>
     <div class="orbit orbit-three"></div>
-    <div class="monogram">YA<span>.</span></div>
-    <span class="art-label label-java">Java</span>
-    <span class="art-label label-spring">Spring</span>
-    <span class="art-label label-react">React</span>
+    <div class="monogram"><span class="monogram-name">Yuvarani<br><span>Anbu</span></span></div>
+    <span class="art-icon icon-java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="" title="Java" loading="lazy"></span>
+    <span class="art-icon icon-spring"><img src="https://cdn.simpleicons.org/spring/6DB33F" alt="" title="Spring Boot" loading="lazy"></span>
+    <span class="art-icon icon-react"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="" title="React" loading="lazy"></span>
+    <span class="art-icon icon-sql" title="SQL">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#7de0df" stroke-linecap="round" stroke-width="1.8" aria-hidden="true">
+        <ellipse cx="12" cy="5" rx="8" ry="3"/>
+        <path d="M4 5v14c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"/>
+      </svg>
+    </span>
+    <span class="art-icon icon-javascript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="" title="JavaScript" loading="lazy"></span>
+    <span class="art-icon icon-html"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="" title="HTML5" loading="lazy"></span>
+    <span class="art-icon icon-css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="" title="CSS3" loading="lazy"></span>
+    <span class="art-icon icon-redux"><img src="https://cdn.simpleicons.org/redux/764ABC" alt="" title="Redux" loading="lazy"></span>
+    <span class="art-icon icon-tailwind"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="" title="Tailwind CSS" loading="lazy"></span>
+    <span class="art-icon icon-mysql"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="" title="MySQL" loading="lazy"></span>
+    <span class="art-icon icon-oracle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="" title="Oracle" loading="lazy"></span>
+    <span class="art-icon icon-redis"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="" title="Redis" loading="lazy"></span>
+    <span class="art-icon icon-kafka"><img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" alt="" title="Apache Kafka" loading="lazy"></span>
+    <span class="art-icon icon-aws"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="" title="AWS" loading="lazy"></span>
+    <span class="art-icon icon-docker"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="" title="Docker" loading="lazy"></span>
+    <span class="art-icon icon-kubernetes"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="" title="Kubernetes" loading="lazy"></span>
+    <span class="art-icon icon-jenkins"><img src="https://cdn.simpleicons.org/jenkins/D24939" alt="" title="Jenkins" loading="lazy"></span>
   </div>
 </section>
 
