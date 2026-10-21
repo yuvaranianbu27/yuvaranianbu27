@@ -247,6 +247,8 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 .site-footer p { margin: 0; }
 
 @media (max-width: 800px) {
+  .site-header { gap: 1rem; }
+  nav { gap: .8rem; font-size: .78rem; }
   .hero { min-height: auto; grid-template-columns: 1fr; padding-top: 4rem; }
   .hero-content { padding-bottom: 1rem; }
   .hero-art { min-height: 330px; }
