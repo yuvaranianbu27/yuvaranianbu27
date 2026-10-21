@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
   <title id="title">Yuvarani Anbu — Full-Stack Java Developer</title>
-  <desc id="description">A dark navy developer-themed banner with Java, Spring, and React accents.</desc>
+  <desc id="description">A dark navy developer-themed banner surrounded by technology badges for Java, Spring Boot, React, JavaScript, SQL, MySQL, Oracle, AWS, Docker, Jenkins, and microservices.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#11152a"/>
@@ -33,12 +33,61 @@
     <path d="M24 49h53M24 70h108M24 91h73M24 112h129" stroke="#b8a1ff" stroke-linecap="round" stroke-opacity=".8" stroke-width="5"/>
     <path d="M91 49h89M149 70h90M112 91h105M169 112h76" stroke="#7de0df" stroke-linecap="round" stroke-opacity=".65" stroke-width="5"/>
   </g>
-  <g font-family="Arial, sans-serif" font-size="13" font-weight="700">
-    <rect x="823" y="267" width="67" height="28" rx="14" fill="#392b25" stroke="#ed8b00" stroke-opacity=".65"/>
-    <text x="856.5" y="286" fill="#ffbd75" text-anchor="middle">JAVA</text>
-    <rect x="902" y="267" width="88" height="28" rx="14" fill="#1e382b" stroke="#6db33f" stroke-opacity=".65"/>
-    <text x="946" y="286" fill="#a7e28b" text-anchor="middle">SPRING</text>
-    <rect x="1002" y="267" width="75" height="28" rx="14" fill="#1c3541" stroke="#61dafb" stroke-opacity=".65"/>
-    <text x="1039.5" y="286" fill="#91e7ff" text-anchor="middle">REACT</text>
+  <g font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing=".4">
+    <g>
+      <rect x="729" y="77" width="61" height="27" rx="13.5" fill="#392b25" stroke="#ed8b00" stroke-opacity=".7"/>
+      <circle cx="743" cy="90.5" r="3" fill="#ed8b00"/>
+      <text x="784" y="95" fill="#ffbd75" text-anchor="end">JAVA</text>
+    </g>
+    <g>
+      <rect x="708" y="132" width="112" height="27" rx="13.5" fill="#1e382b" stroke="#6db33f" stroke-opacity=".7"/>
+      <circle cx="722" cy="145.5" r="3" fill="#6db33f"/>
+      <text x="813" y="150" fill="#a7e28b" text-anchor="end">SPRING BOOT</text>
+    </g>
+    <g>
+      <rect x="723" y="194" width="81" height="27" rx="13.5" fill="#1c3541" stroke="#4479a1" stroke-opacity=".8"/>
+      <circle cx="737" cy="207.5" r="3" fill="#61a6d5"/>
+      <text x="793" y="212" fill="#a6d5f4" text-anchor="end">MYSQL</text>
+    </g>
+    <g>
+      <rect x="740" y="259" width="103" height="27" rx="13.5" fill="#302747" stroke="#b8a1ff" stroke-opacity=".7"/>
+      <circle cx="754" cy="272.5" r="3" fill="#b8a1ff"/>
+      <text x="832" y="277" fill="#d1c2ff" text-anchor="end">JAVASCRIPT</text>
+    </g>
+    <g>
+      <rect x="835" y="65" width="125" height="27" rx="13.5" fill="#302747" stroke="#b8a1ff" stroke-opacity=".7"/>
+      <circle cx="849" cy="78.5" r="3" fill="#b8a1ff"/>
+      <text x="949" y="83" fill="#d1c2ff" text-anchor="end">MICROSERVICES</text>
+    </g>
+    <g>
+      <rect x="1000" y="64" width="62" height="27" rx="13.5" fill="#303125" stroke="#ffbd75" stroke-opacity=".7"/>
+      <circle cx="1014" cy="77.5" r="3" fill="#ffbd75"/>
+      <text x="1051" y="82" fill="#ffe0a8" text-anchor="end">AWS</text>
+    </g>
+    <g>
+      <rect x="1101" y="111" width="75" height="27" rx="13.5" fill="#1c3541" stroke="#61dafb" stroke-opacity=".7"/>
+      <circle cx="1115" cy="124.5" r="3" fill="#61dafb"/>
+      <text x="1165" y="129" fill="#91e7ff" text-anchor="end">REACT</text>
+    </g>
+    <g>
+      <rect x="1107" y="166" width="62" height="27" rx="13.5" fill="#26303e" stroke="#8ab4f8" stroke-opacity=".7"/>
+      <circle cx="1121" cy="179.5" r="3" fill="#8ab4f8"/>
+      <text x="1158" y="184" fill="#c1d7ff" text-anchor="end">SQL</text>
+    </g>
+    <g>
+      <rect x="1093" y="222" width="83" height="27" rx="13.5" fill="#1d3444" stroke="#2496ed" stroke-opacity=".8"/>
+      <circle cx="1107" cy="235.5" r="3" fill="#2496ed"/>
+      <text x="1165" y="240" fill="#9bd3ff" text-anchor="end">DOCKER</text>
+    </g>
+    <g>
+      <rect x="974" y="273" width="78" height="27" rx="13.5" fill="#39282b" stroke="#f80000" stroke-opacity=".7"/>
+      <circle cx="988" cy="286.5" r="3" fill="#ff7777"/>
+      <text x="1041" y="291" fill="#ffb0b0" text-anchor="end">ORACLE</text>
+    </g>
+    <g>
+      <rect x="857" y="285" width="84" height="27" rx="13.5" fill="#39292b" stroke="#d24939" stroke-opacity=".7"/>
+      <circle cx="871" cy="298.5" r="3" fill="#e66a59"/>
+      <text x="930" y="303" fill="#ffaaa0" text-anchor="end">JENKINS</text>
+    </g>
   </g>
 </svg>
