@@ -21,9 +21,12 @@ I’m a **Full-Stack Java Developer** with **5 years of hands-on experience** bu
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Microservices-5B6ABF?style=flat-square" alt="Microservices">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
@@ -33,7 +36,7 @@ I’m a **Full-Stack Java Developer** with **5 years of hands-on experience** bu
 | --- | --- |
 | **Backend** | Java, J2EE, Spring Boot, Spring Cloud, Spring Security, REST APIs, microservices |
 | **Frontend** | React, JavaScript, HTML, CSS, Material UI, Tailwind CSS |
-| **Data & security** | SQL, JWT, OAuth 2.0 |
+| **Data & security** | SQL, MySQL, Oracle, JWT, OAuth 2.0 |
 | **Testing & API tools** | JUnit, Mockito, Swagger, API documentation |
 | **Cloud & delivery** | AWS, Docker, Jenkins, Git, Agile/Scrum |
 | **Observability** | Prometheus, Grafana, log analysis, troubleshooting |

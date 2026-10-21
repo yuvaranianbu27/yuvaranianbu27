@@ -61,7 +61,7 @@ description: Full-stack Java developer with five years of experience in backend 
     <article class="skill-card">
       <span class="card-number">03</span>
       <h3>Data &amp; quality</h3>
-      <p>SQL · JWT · OAuth 2.0 · JUnit · Mockito · Swagger · API documentation</p>
+      <p>SQL · MySQL · Oracle · JWT · OAuth 2.0 · JUnit · Mockito · Swagger · API documentation</p>
     </article>
     <article class="skill-card">
       <span class="card-number">04</span>
