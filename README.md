@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I’m a **Java Developer and Backend Engineer** with **5 years of experience** building secure backend services, REST APIs, and distributed microservices for government and banking products. I enjoy solving complex integration challenges and delivering reliable, scalable software.
+I’m a **Java Developer, Software Engineer and Backend Engineer** with **5 years of experience** building secure, scalable, high-performance backend services, REST APIs, and distributed microservices for government and banking products. I write well-tested code, optimise database access and application performance, and enjoy solving complex integration challenges alongside strong teams in fast-paced environments.
 
 > Based in Dubai, UAE · Java 8/17/21 · Spring Boot · Microservices · API integrations
 
@@ -42,17 +42,26 @@ I’m a **Java Developer and Backend Engineer** with **5 years of experience** b
 | **Frontend** | React, Redux, FreeMarker, Material UI, Tailwind CSS, HTML5, CSS3, JavaScript |
 | **Data** | SQL, MySQL, Oracle, Spring Data JPA, Hibernate ORM |
 | **Security & quality** | Spring Security, OAuth 2.0, JWT, JUnit, Mockito, Swagger, API documentation |
-| **Cloud, delivery & observability** | AWS, Docker, Kubernetes, Jenkins, Git, JIRA, Postman, Prometheus, Grafana, Agile/Scrum |
+| **Cloud, delivery & observability** | AWS, Docker, Kubernetes, Jenkins, Git, GitHub, JIRA, Postman, Prometheus, Grafana, Agile/Scrum |
+| **IDEs & tools** | IntelliJ IDEA, Eclipse, Spring Tool Suite (STS), Visual Studio Code, Apache FreeMarker |
 
 ## 💼 Experience Highlights
 
 | Role | Highlights |
 | --- | --- |
-| **Software Developer · Datacell Solutions** (Dec 2025–Present) | Building Java 21 and Spring Boot microservices for DubaiNow digital services, integrating Dubai Land Department APIs, and improving API response times by 15% with Redis. |
-| **Software Engineer · Scope e-Knowledge Center** (Nov 2023–Apr 2025) | Designed and delivered 50+ Java 17 REST APIs for banking products using Spring Boot, MySQL, Oracle, and secure service integrations. |
-| **Associate Software Engineer · Scope e-Knowledge Center** (Mar 2021–Nov 2023) | Improved Jenkins/Git delivery workflows, reducing deployment time by 25%; resolved 50+ bugs and helped reduce production incidents by 30%. |
+| **Software Developer · Datacell Solutions** (Dec 2025–Present) | Building Java 21 and Spring Boot microservices for the DubaiNow app (Dubai Digital Authority), integrating DLD and DEWA APIs via the iPaaS gateway with UAE Pass signing, delivering bilingual (English/Arabic) FreeMarker screens, and improving API response times by 15% with Redis. |
+| **Software Engineer · Scope e-Knowledge Center** (Nov 2023–Apr 2025) | Designed and delivered 50+ Java 17 REST APIs for banking products using Spring Boot, Spring Data JPA, MySQL, and Oracle; secured services with OAuth2 and JWT, reducing unauthorised access by 10%. |
+| **Associate Software Engineer · Scope e-Knowledge Center** (Mar 2021–Nov 2023) | Committed 1,000+ code changes; improved Jenkins/Git CI/CD, reducing deployment time by 25%; resolved 50+ bugs, cutting production incidents by 30%; helped meet 95% of delivery deadlines across 20+ Agile sprints. |
 
-**Selected professional projects:** DubaiNow–Ejari and Area Modification services · RetailCore banking microservices · Credix 7.1 credit workflows · DocuNorm standards e-commerce.
+### 🏗️ Selected Professional Projects
+
+| Project | What I delivered |
+| --- | --- |
+| **DubaiNow – Ejari Services** | Tenancy creation, renewal and termination for tenants and owners: server-driven journeys (property, tenant, rent & instalments, review), contract progress stepper, Ejari history with status-based actions, digital contract viewing, UAE Pass signing, Ejari fee payment, DEWA activation, and Redis session caching. Supported UAT with DLD and DEWA. |
+| **DubaiNow – Area Modification** | End-to-end property area-modification service with clear guidelines and transparent fees, automatic site-plan fetching, DLD payment, and downloadable updated title deeds and receipts. |
+| **RetailCore** | Re-architected legacy banking systems into API-driven microservices: customer management, address updates, beneficiaries, third-party and external transfers, and credit-card services. |
+| **Credix 7.1 – CR Workbench Integrations** | Centralised credit analysis and workflow management for retail lending, integrating core banking and loan-origination systems. |
+| **DocuNorm** | Secure, workflow-based e-commerce platform for international standards (ISO, IEC, IEEE, ANSI, ASTM, BIS, DIN, JIS) with search, preview, carts, secure payments, licence-based downloads, and admin controls. |
 
 ## 🎓 Education
 
