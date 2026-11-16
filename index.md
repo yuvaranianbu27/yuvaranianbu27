@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Yuvarani Anbu | Java Developer & Backend Engineer
-description: Java developer and backend engineer with 5 years of experience building Spring Boot microservices, secure APIs, and digital services.
+title: Yuvarani Anbu | Full Stack & Java Backend Engineer
+description: Full stack and Java backend engineer with five years of experience building secure Spring Boot microservices, React interfaces and digital-government services in Dubai.
 ---
 
 <section class="hero" id="about">
   <div class="hero-content">
-    <p class="eyebrow"><span class="status-dot"></span> Java Developer · Software Engineer · Backend Engineer</p>
+    <p class="eyebrow"><span class="status-dot"></span> Full Stack Engineer · Java Backend Engineer</p>
     <h1>Hi, I’m <span>Yuvarani Anbu.</span></h1>
-    <p class="hero-copy">I build secure, scalable, high-performance Java services and API-driven products. Over 5 years in software development, I’ve delivered banking integrations and digital government services with Spring Boot, microservices, and a focus on measurable improvements.</p>
+    <p class="hero-copy">I architect secure, scalable Java services and craft the interfaces that bring them to life. Over five years, I’ve delivered core-banking platforms and smart-government services for Dubai, combining Spring Boot microservices, React and a relentless focus on measurable impact.</p>
     <div class="hero-actions">
       <a class="button button-primary" href="#experience">Explore my experience <span aria-hidden="true">↓</span></a>
       <a class="button button-secondary" href="mailto:yuvaranianbu27@gmail.com">Get in touch <span aria-hidden="true">↗</span></a>
     </div>
     <div class="hero-meta">
-      <span>Java 8 · 17 · 21</span>
-      <span>Spring Boot &amp; microservices</span>
+      <span>Java 21 · Spring Boot</span>
+      <span>React · Microservices</span>
       <span>Dubai, UAE</span>
     </div>
   </div>
@@ -52,11 +52,11 @@ description: Java developer and backend engineer with 5 years of experience buil
 <section class="section about-section">
   <div class="section-heading">
     <p class="eyebrow">Backend engineering</p>
-    <h2>Reliable systems, <span>real-world impact.</span></h2>
+    <h2>End-to-end engineering, <span>real-world impact.</span></h2>
   </div>
   <div class="about-copy">
-    <p>I’m a Java developer with 5 years of experience designing and delivering backend services, REST APIs, and distributed microservices for government and banking products. My work spans Java 8, 17, and 21; Spring Boot; database integrations; application security; and frontend components when a feature needs them.</p>
-    <p>I enjoy taking complex workflows from integration through delivery—writing high-quality, well-tested code, optimising database connections and application performance, and solving ambitious problems alongside high-calibre teams in fast-paced environments.</p>
+    <p>I’m a full stack and Java backend engineer with five years of experience architecting secure, resilient platforms for the government and banking sectors. Today, I engineer Java 21 and Spring Boot microservices for DubaiNow, the Dubai Digital Authority’s flagship smart-government application, integrating Dubai Land Department, DEWA and UAE Pass services that residents rely on every day.</p>
+    <p>I enjoy owning features end to end, from API design and data modelling to responsive, bilingual interfaces built with React and FreeMarker. I take pride in clean, well-tested code, close collaboration with stakeholders and solutions that deliver measurable business outcomes.</p>
   </div>
 </section>
 
@@ -72,7 +72,7 @@ description: Java developer and backend engineer with 5 years of experience buil
     </article>
     <article class="impact-card">
       <strong>25%</strong>
-      <span>Less deployment time with CI/CD</span>
+      <span>Shorter deployments with CI/CD</span>
     </article>
     <article class="impact-card">
       <strong>30%</strong>
@@ -85,7 +85,7 @@ description: Java developer and backend engineer with 5 years of experience buil
   <div class="section-heading">
     <p class="eyebrow">My toolkit</p>
     <h2>Skills &amp; technologies</h2>
-    <p class="section-intro">A practical toolkit for building, securing, integrating, and delivering production software.</p>
+    <p class="section-intro">A versatile, production-proven toolkit for designing, securing, integrating and shipping software across the full stack.</p>
   </div>
   <div class="skill-grid">
     <article class="skill-card">
@@ -96,22 +96,22 @@ description: Java developer and backend engineer with 5 years of experience buil
     <article class="skill-card">
       <span class="card-number">02</span>
       <h3>Microservices &amp; APIs</h3>
-      <p>RESTful APIs · Spring Cloud Gateway · Kafka · Redis · Eureka Discovery · service integrations</p>
+      <p>RESTful API design · Spring Cloud Gateway · Apache Kafka · Redis · Eureka · iPaaS and government-service integrations</p>
     </article>
     <article class="skill-card">
       <span class="card-number">03</span>
       <h3>Frontend</h3>
-      <p>React · Redux · FreeMarker (FTL) · Material UI · Tailwind CSS · HTML5 · CSS3 · JavaScript</p>
+      <p>React.js · Redux · JavaScript · FreeMarker (English/Arabic) · Tailwind CSS · Material UI · HTML5 · CSS3</p>
     </article>
     <article class="skill-card">
       <span class="card-number">04</span>
       <h3>Databases</h3>
-      <p>MySQL · Oracle · SQL · Spring Data JPA · Hibernate ORM · database and query optimization</p>
+      <p>MySQL · Oracle · MongoDB · Spring Data JPA · Hibernate ORM · SQL tuning and optimization</p>
     </article>
     <article class="skill-card">
       <span class="card-number">05</span>
       <h3>Security &amp; quality</h3>
-      <p>Spring Security · OAuth 2.0 · JWT · JUnit · Mockito · Swagger · API documentation</p>
+      <p>Spring Security · OAuth 2.0 · JWT · UAE Pass · JUnit · Mockito · Swagger / OpenAPI</p>
     </article>
     <article class="skill-card">
       <span class="card-number">06</span>
@@ -125,7 +125,7 @@ description: Java developer and backend engineer with 5 years of experience buil
   <div class="section-heading">
     <p class="eyebrow">Career journey</p>
     <h2>Professional experience</h2>
-    <p class="section-intro">Building and supporting production software across government services, banking, and digital commerce.</p>
+    <p class="section-intro">Five years of building and scaling production software across digital government, banking and e-commerce.</p>
   </div>
   <div class="experience-list">
     <article class="experience-card">
@@ -137,13 +137,12 @@ description: Java developer and backend engineer with 5 years of experience buil
         <p class="experience-date">Dec 2025 – Present</p>
       </div>
       <ul>
-        <li>Contribute to the DubaiNow mobile application, delivering smart government services authorized by the Dubai Digital Authority.</li>
-        <li>Build Java 21 and Spring Boot microservices, improving scalability and maintainability.</li>
-        <li>Integrate Dubai Land Department (DLD) and DEWA APIs via the iPaaS gateway, with UAE Pass signing, Ejari fee payment, and DEWA activation.</li>
-        <li>Develop bilingual (English/Arabic) server-rendered screens with Apache FreeMarker (FTL).</li>
-        <li>Improve API response times by 15% using Redis caching, including Redis session caching.</li>
-        <li>Deliver Ejari tenancy creation, renewal, and termination journeys, plus the Area Modification service with site-plan auto-fetch, DLD payments, and title-deed downloads.</li>
-        <li>Support User Acceptance Testing with DLD and DEWA ahead of release.</li>
+        <li>Engineer backend services for DubaiNow, the Dubai Digital Authority’s flagship smart-government application, on Java 21, Spring Boot and a microservices architecture.</li>
+        <li>Orchestrate integrations with Dubai Land Department (DLD) and DEWA through the iPaaS gateway, incorporating UAE Pass digital signatures and secure online fee collection.</li>
+        <li>Lifted API responsiveness by 15% through a Redis caching and session-management strategy.</li>
+        <li>Craft bilingual (English/Arabic) server-rendered user journeys with Apache FreeMarker.</li>
+        <li>Deliver Ejari tenancy registration, renewal and termination, together with the Area Modification service, from site-plan retrieval to title-deed issuance.</li>
+        <li>Partner with DLD and DEWA stakeholders through User Acceptance Testing to resolve defects ahead of each release.</li>
       </ul>
     </article>
     <article class="experience-card">
@@ -155,10 +154,11 @@ description: Java developer and backend engineer with 5 years of experience buil
         <p class="experience-date">Nov 2023 – Apr 2025</p>
       </div>
       <ul>
-        <li>Designed and delivered 50+ REST APIs with Java 17 and Spring Boot for regulated banking systems.</li>
-        <li>Built RetailCore banking capabilities and integrated credit-analysis workflows across core banking and loan-origination systems.</li>
-        <li>Built CRUD data access with Spring Data JPA across MySQL and Oracle, and tuned SQL queries.</li>
-        <li>Secured applications with OAuth 2.0 and JWT, reducing unauthorized access by 10%.</li>
+        <li>Drove core-banking modernization, designing and deploying 50+ RESTful APIs on Java 17 and Spring Boot in line with banking regulations.</li>
+        <li>Re-engineered legacy systems into RetailCore, an API-first microservices suite, and delivered Credix 7.1 credit-workflow integrations.</li>
+        <li>Built responsive front-end interfaces with React.js and Tailwind CSS, delivering features end to end across the full stack.</li>
+        <li>Hardened services with Spring Security, OAuth 2.0 and JWT, reducing unauthorized access by 10%.</li>
+        <li>Built a robust data layer with Spring Data JPA across MySQL and Oracle, and enabled event-driven messaging with Apache Kafka.</li>
       </ul>
     </article>
     <article class="experience-card">
@@ -170,10 +170,11 @@ description: Java developer and backend engineer with 5 years of experience buil
         <p class="experience-date">Mar 2021 – Nov 2023</p>
       </div>
       <ul>
-        <li>Supported design, implementation, testing, and debugging across the software development lifecycle.</li>
-        <li>Improved Jenkins and Git delivery workflows, reducing deployment time by 25%; resolved 50+ bugs and helped reduce production incidents by 30%.</li>
-        <li>Contributed 1,000+ code changes and collaborated across 20+ Agile sprints, helping teams meet 95% of delivery deadlines.</li>
-        <li>Worked on DocuNorm, a workflow-based e-commerce platform for searching, previewing, and purchasing international standards.</li>
+        <li>Engineered and supported enterprise web applications across the full software development lifecycle.</li>
+        <li>Accelerated releases by streamlining Jenkins and Git CI/CD pipelines, shortening deployment cycles by 25%.</li>
+        <li>Strengthened production stability by resolving 50+ defects, contributing to a 30% decline in incidents.</li>
+        <li>Contributed 1,000+ code changes and helped the team achieve 95% on-time delivery across 20+ Agile sprints.</li>
+        <li>Built DocuNorm, a secure, workflow-driven e-commerce platform for licensed international standards.</li>
       </ul>
     </article>
   </div>
@@ -183,7 +184,7 @@ description: Java developer and backend engineer with 5 years of experience buil
   <div class="section-heading">
     <p class="eyebrow">Selected work</p>
     <h2>Products &amp; projects</h2>
-    <p class="section-intro">A mix of public projects and professional product work across digital services, banking, and developer tools.</p>
+    <p class="section-intro">A selection of professional products and personal projects spanning digital government, banking, AI and e-commerce.</p>
   </div>
   <div class="project-grid">
     <article class="project-card project-government">
@@ -204,14 +205,14 @@ description: Java developer and backend engineer with 5 years of experience buil
       <div class="project-topline"><span>AI · Productivity</span><span aria-hidden="true">03</span></div>
       <div class="project-icon" aria-hidden="true">✳</div>
       <h3>Email Reply Genie</h3>
-      <p>An AI-powered assistant that helps craft thoughtful, tone-aware replies to emails.</p>
+      <p>An AI-powered assistant that drafts thoughtful, tone-aware email replies in seconds.</p>
       <a href="https://github.com/yuvaranianbu27/email-reply-genie" aria-label="View Email Reply Genie on GitHub">View project <span aria-hidden="true">→</span></a>
     </article>
     <article class="project-card project-store">
       <div class="project-topline"><span>Full stack · E-commerce</span><span aria-hidden="true">04</span></div>
       <div class="project-icon" aria-hidden="true">◇</div>
       <h3>YR Store</h3>
-      <p>A full-stack e-commerce platform focused on a smooth and intuitive shopping experience.</p>
+      <p>A full-stack e-commerce application pairing a React storefront with a Spring Boot REST API for a smooth, intuitive shopping experience.</p>
       <a href="https://github.com/yuvaranianbu27/Yr-Store" aria-label="View YR Store on GitHub">View project <span aria-hidden="true">→</span></a>
     </article>
     <article class="project-card project-docunorm">
@@ -280,7 +281,7 @@ description: Java developer and backend engineer with 5 years of experience buil
 <section class="contact-section" id="contact">
   <p class="eyebrow">Have a project in mind?</p>
   <h2>Let’s build something <span>meaningful.</span></h2>
-  <p>I’m open to connecting about software development, collaboration, and career opportunities.</p>
+  <p>I’m always glad to talk about full stack and backend engineering, digital-government platforms or new career opportunities.</p>
   <div class="contact-actions">
     <a class="button button-light" href="mailto:yuvaranianbu27@gmail.com">Email me <span aria-hidden="true">↗</span></a>
     <a class="button button-linkedin" href="https://www.linkedin.com/in/yuvaranianbu" target="_blank" rel="noopener noreferrer" aria-label="Connect with Yuvarani Anbu on LinkedIn">
