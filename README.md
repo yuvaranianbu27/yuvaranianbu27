@@ -14,7 +14,7 @@
 
 I’m a **Full Stack and Java Backend Engineer** with **five years of experience** architecting secure, resilient and high-performance platforms for the **government and banking sectors**.
 
-Today, I engineer Java 21 and Spring Boot microservices for **DubaiNow**, the Dubai Digital Authority’s flagship smart-government application. There, I integrate **Dubai Land Department (DLD)**, **DEWA** and **UAE Pass** services to power Ejari tenancy and property journeys used by residents across Dubai.
+Today, I engineer Java 21 and Spring Boot microservices for **DubaiNow**, Dubai’s one-stop app for government services, run by the Dubai Digital Authority. There, I integrate **Dubai Land Department (DLD)**, **DEWA** and **UAE Pass** services to power Ejari tenancy and property journeys used by residents across Dubai.
 
 I enjoy owning features end to end, from API design and data modelling to responsive, accessible interfaces, and I take pride in clean, well-tested code that delivers measurable business outcomes.
 
@@ -68,7 +68,7 @@ I enjoy owning features end to end, from API design and data modelling to respon
 ### Software Developer · Datacell Solutions · Dubai
 *December 2025 – Present*
 
-Backend engineer on **DubaiNow**, the flagship smart-government application of the Dubai Digital Authority (DDA).
+Full Stack Engineer on **DubaiNow**, the citywide smart-services application of the Dubai Digital Authority (DDA).
 
 - Design and deliver backend services on Java 21, Spring Boot and a microservices architecture, engineered for scalability and long-term maintainability.
 - Orchestrate integrations with DLD and DEWA through the iPaaS gateway, incorporating UAE Pass digital signatures and secure online fee collection.
