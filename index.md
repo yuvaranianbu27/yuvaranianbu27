@@ -55,7 +55,7 @@ description: Full stack and Java backend engineer with five years of experience 
     <h2>End-to-end engineering, <span>real-world impact.</span></h2>
   </div>
   <div class="about-copy">
-    <p>I’m a full stack and Java backend engineer with five years of experience architecting secure, resilient platforms for the government and banking sectors. Today, I engineer Java 21 and Spring Boot microservices for DubaiNow, the Dubai Digital Authority’s flagship smart-government application, integrating Dubai Land Department, DEWA and UAE Pass services that residents rely on every day.</p>
+    <p>I’m a full stack and Java backend engineer with five years of experience architecting secure, resilient platforms for the government and banking sectors. Today, I engineer Java 21 and Spring Boot microservices for DubaiNow, the Dubai Digital Authority’s citizen-services platform, integrating Dubai Land Department, DEWA and UAE Pass services that residents rely on every day.</p>
     <p>I enjoy owning features end to end, from API design and data modelling to responsive, bilingual interfaces built with React and FreeMarker. I take pride in clean, well-tested code, close collaboration with stakeholders and solutions that deliver measurable business outcomes.</p>
   </div>
 </section>
@@ -137,7 +137,7 @@ description: Full stack and Java backend engineer with five years of experience 
         <p class="experience-date">Dec 2025 – Present</p>
       </div>
       <ul>
-        <li>Engineer backend services for DubaiNow, the Dubai Digital Authority’s flagship smart-government application, on Java 21, Spring Boot and a microservices architecture.</li>
+        <li>Engineer backend services for DubaiNow, Dubai’s unified smart-government app, on Java 21, Spring Boot and a microservices architecture.</li>
         <li>Orchestrate integrations with Dubai Land Department (DLD) and DEWA through the iPaaS gateway, incorporating UAE Pass digital signatures and secure online fee collection.</li>
         <li>Lifted API responsiveness by 15% through a Redis caching and session-management strategy.</li>
         <li>Craft bilingual (English/Arabic) server-rendered user journeys with Apache FreeMarker.</li>
