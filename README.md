@@ -64,7 +64,7 @@ I enjoy owning features end to end, from API design and data modelling to respon
 | **Microservices & integration** | RESTful API design, Spring Cloud Gateway, Eureka service discovery, Apache Kafka, Redis, iPaaS gateway integrations |
 | **Frontend** | React.js, Redux, JavaScript, Apache FreeMarker (bilingual English/Arabic), Tailwind CSS, Material UI, HTML5, CSS3 |
 | **Data** | MySQL, Oracle, MongoDB, SQL query tuning and optimization |
-| **Security** | Spring Security, OAuth2, OpenID Connect (OIDC), SSO, JWT, RBAC, UAE Pass, secure file-upload validation, SAST remediation, secrets management |
+| **Security** | Spring Security, OAuth2, OpenID Connect (OIDC), SSO, JWT, RBAC, UAE Pass, secure file-upload validation, secrets management |
 | **Testing & quality** | JUnit, Mockito, API mocking, QA test data provisioning, Swagger / OpenAPI, UAT |
 | **Cloud, DevOps & observability** | Docker, Kubernetes, AWS, Jenkins CI/CD, Git & GitHub, Prometheus, Grafana |
 | **AI-assisted engineering** | Claude AI, Claude Code, prompt engineering, token usage and context optimization, AI-assisted code review |

@@ -127,7 +127,7 @@ description: Full stack and Java backend engineer with five years of experience 
     <article class="skill-card">
       <span class="card-number">05</span>
       <h3>Security &amp; quality</h3>
-      <p>Spring Security · OAuth 2.0 · OpenID Connect (OIDC) · SSO · JWT · RBAC · UAE Pass · SAST remediation · JUnit · Mockito · Swagger / OpenAPI</p>
+      <p>Spring Security · OAuth 2.0 · OpenID Connect (OIDC) · SSO · JWT · RBAC · UAE Pass · JUnit · Mockito · Swagger / OpenAPI</p>
     </article>
     <article class="skill-card">
       <span class="card-number">06</span>
