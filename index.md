@@ -221,7 +221,7 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
   <div class="section-heading">
     <p class="eyebrow">Case studies</p>
     <h2>Problems worth <span>solving</span></h2>
-    <p class="section-intro">Each project began with a real person and a real frustration. Here is how the engineering answered it.</p>
+    <p class="section-intro">Professional work for government and banking clients, described by the problem each one solves.</p>
   </div>
   <div class="project-grid">
     <article class="project-card project-government">
@@ -252,22 +252,66 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
       <p>Finding the right ISO or IEEE standard used to be a hunt. DocuNorm organised standards from eight bodies by industry, topic and code, let engineers preview before buying, and enforced licences on every download.</p>
       <span class="project-stack">Java · Spring · MySQL · Secure payments</span>
     </article>
-    <article class="project-card project-genie">
-      <div class="project-topline"><span>Side project · AI</span><span aria-hidden="true">05</span></div>
-      <div class="project-icon" aria-hidden="true">✳</div>
-      <h3>Email Reply Genie</h3>
-      <p>For the inbox that never seems to shrink: paste a message, choose a tone, and receive a polished draft from Google Gemini in a moment.</p>
-      <a href="https://github.com/yuvaranianbu27/Email-Reply-Genie" aria-label="View Email Reply Genie on GitHub">Explore the code <span aria-hidden="true">→</span></a>
-    </article>
+  </div>
+</section>
+
+<section class="section projects-section" id="github">
+  <div class="section-heading">
+    <p class="eyebrow">Open source</p>
+    <h2>Built on <span>GitHub</span></h2>
+    <p class="section-intro">Personal projects where I experiment with new stacks end to end. Each repository includes setup instructions and an honest note on its current status.</p>
+  </div>
+  <div class="project-grid">
     <article class="project-card project-store">
-      <div class="project-topline"><span>Side project · Full stack</span><span aria-hidden="true">06</span></div>
+      <div class="project-topline"><span>Full stack · E-commerce</span><span aria-hidden="true">01</span></div>
       <div class="project-icon" aria-hidden="true">◇</div>
       <h3>YR Store</h3>
-      <p>A storefront built from scratch to practise every layer at once: React on the surface, Spring Boot and JWT underneath, and Stripe handling the moment of purchase.</p>
-      <a href="https://github.com/yuvaranianbu27/YR-Store" aria-label="View YR Store on GitHub">Explore the code <span aria-hidden="true">→</span></a>
+      <p>A complete online shop: product catalogue, registration and login, cart, checkout, orders, profile management and a contact form, with admin pages for orders and customer messages. The React storefront has 26 components with protected routes, and the Spring Boot API exposes 8 endpoints secured with JWT and CSRF protection.</p>
+      <span class="project-stack">React 19 · Vite · Tailwind CSS · Spring Boot · Spring Security · JWT · MySQL · Stripe</span>
+      <a href="https://github.com/yuvaranianbu27/YR-Store" aria-label="View YR Store on GitHub">View repository <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="project-card project-banking">
+      <div class="project-topline"><span>AI · Productivity</span><span aria-hidden="true">02</span></div>
+      <div class="project-icon" aria-hidden="true">✳</div>
+      <h3>Email Reply Genie</h3>
+      <p>An AI writing assistant that drafts email replies. Users paste a message, choose a professional, casual or friendly tone, and copy the generated reply in one click. A Spring Boot WebClient service calls the Google Gemini API, with keys kept in environment variables.</p>
+      <span class="project-stack">React 19 · Material UI · Axios · Spring Boot · WebFlux · Google Gemini API</span>
+      <a href="https://github.com/yuvaranianbu27/Email-Reply-Genie" aria-label="View Email Reply Genie on GitHub">View repository <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="project-card project-government">
+      <div class="project-topline"><span>Event streaming · Prototype</span><span aria-hidden="true">03</span></div>
+      <div class="project-icon" aria-hidden="true">◎</div>
+      <h3>GeoPulse</h3>
+      <p>The foundation of a real-time driver-location service. Location events are published to a three-partition Apache Kafka topic, keyed by driver ID to preserve ordering, ready for a planned Redis GEO index and nearby-driver matching.</p>
+      <span class="project-stack">Java 21 · Spring Boot · Spring WebFlux · Apache Kafka · Reactive Redis</span>
+      <a href="https://github.com/yuvaranianbu27/geopulse" aria-label="View GeoPulse on GitHub">View repository <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="project-card project-docunorm">
+      <div class="project-topline"><span>Fintech · Prototype</span><span aria-hidden="true">04</span></div>
+      <div class="project-icon" aria-hidden="true">≡</div>
+      <h3>LedgerX</h3>
+      <p>A domain model for a double-entry ledger and wallet API, covering accounts across five types (asset, liability, equity, revenue and expense), transactions with unique references, and debit and credit journal entries in multiple currencies.</p>
+      <span class="project-stack">Java 21 · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL</span>
+      <a href="https://github.com/yuvaranianbu27/LedgerX" aria-label="View LedgerX on GitHub">View repository <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="project-card project-banking">
+      <div class="project-topline"><span>Security · Prototype</span><span aria-hidden="true">05</span></div>
+      <div class="project-icon" aria-hidden="true">⌘</div>
+      <h3>CryptoPulse</h3>
+      <p>The account layer for a cryptocurrency platform: sign-up and sign-in routes, user roles, a two-factor authentication model and JWT components built on Spring Security.</p>
+      <span class="project-stack">Java 21 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL</span>
+      <a href="https://github.com/yuvaranianbu27/CryptoPulse" aria-label="View CryptoPulse on GitHub">View repository <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="project-card project-store">
+      <div class="project-topline"><span>Web · Personal brand</span><span aria-hidden="true">06</span></div>
+      <div class="project-icon" aria-hidden="true">✦</div>
+      <h3>This portfolio</h3>
+      <p>The site you are reading, built with Jekyll and hand-written HTML and CSS, deployed automatically to GitHub Pages through a GitHub Actions workflow on every merge.</p>
+      <span class="project-stack">Jekyll · HTML5 · CSS3 · GitHub Actions · GitHub Pages</span>
+      <a href="https://github.com/yuvaranianbu27/yuvaranianbu27" aria-label="View this portfolio on GitHub">View repository <span aria-hidden="true">→</span></a>
     </article>
   </div>
-  <a class="all-projects" href="https://github.com/yuvaranianbu27?tab=repositories">Wander through GitHub <span aria-hidden="true">↗</span></a>
+  <a class="all-projects" href="https://github.com/yuvaranianbu27?tab=repositories">See all repositories <span aria-hidden="true">↗</span></a>
 </section>
 
 <section class="section education-section" id="education">
