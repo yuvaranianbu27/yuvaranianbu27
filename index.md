@@ -78,6 +78,22 @@ description: Full stack and Java backend engineer with five years of experience 
       <strong>30%</strong>
       <span>Fewer production incidents</span>
     </article>
+    <article class="impact-card">
+      <strong>3</strong>
+      <span>Government projects in 12 months</span>
+    </article>
+    <article class="impact-card">
+      <strong>5</strong>
+      <span>Dubai Police sites monitored for flooding</span>
+    </article>
+    <article class="impact-card">
+      <strong>3 hrs</strong>
+      <span>To provision complete QA test data</span>
+    </article>
+    <article class="impact-card">
+      <strong>4</strong>
+      <span>Government clients served</span>
+    </article>
   </div>
 </section>
 
@@ -111,12 +127,12 @@ description: Full stack and Java backend engineer with five years of experience 
     <article class="skill-card">
       <span class="card-number">05</span>
       <h3>Security &amp; quality</h3>
-      <p>Spring Security · OAuth 2.0 · JWT · UAE Pass · JUnit · Mockito · Swagger / OpenAPI</p>
+      <p>Spring Security · OAuth 2.0 · OpenID Connect (OIDC) · SSO · JWT · RBAC · UAE Pass · SAST remediation · JUnit · Mockito · Swagger / OpenAPI</p>
     </article>
     <article class="skill-card">
       <span class="card-number">06</span>
-      <h3>Cloud &amp; delivery</h3>
-      <p>AWS · Docker · Kubernetes · Jenkins · Git · GitHub · JIRA · Postman · Prometheus · Grafana · Agile/Scrum · IntelliJ · Eclipse · STS · VS Code</p>
+      <h3>Cloud, delivery &amp; AI</h3>
+      <p>Claude AI · Claude Code · Prompt engineering · Token optimization · AWS · Docker · Kubernetes · Jenkins · Git · GitHub · JIRA · Postman · Prometheus · Grafana · Agile/Scrum · IntelliJ · Eclipse · STS · VS Code</p>
     </article>
   </div>
 </section>
@@ -142,6 +158,8 @@ description: Full stack and Java backend engineer with five years of experience 
         <li>Lifted API responsiveness by 15% through a Redis caching and session-management strategy.</li>
         <li>Craft bilingual (English/Arabic) server-rendered user journeys with Apache FreeMarker.</li>
         <li>Deliver Ejari tenancy registration, renewal and termination, together with the Area Modification service, from site-plan retrieval to title-deed issuance.</li>
+        <li>Provisioned complete Ejari test data for QA within 3 hours, unblocking end-to-end testing of all tenancy journeys.</li>
+        <li>Engineered the Dubai Police Weather Forecast &amp; Flood Monitoring backend, with OpenID Connect SSO, role-based access and automated flood early warnings across 5 sites.</li>
         <li>Partner with DLD and DEWA stakeholders through User Acceptance Testing to resolve defects ahead of each release.</li>
       </ul>
     </article>
@@ -194,29 +212,36 @@ description: Full stack and Java backend engineer with five years of experience 
       <p>Mobile-enabled tenancy creation, renewal, and termination, plus area modification: server-driven journeys, contract progress stepper, Ejari history, digital contract signing via UAE Pass, secure payments, DEWA activation, site-plan retrieval, and downloadable title deeds.</p>
       <span class="project-stack">Java 21 · Spring Boot · Microservices · Redis · FreeMarker · DLD &amp; DEWA APIs</span>
     </article>
+    <article class="project-card project-docunorm">
+      <div class="project-topline"><span>Government · Public safety</span><span aria-hidden="true">02</span></div>
+      <div class="project-icon" aria-hidden="true">☂</div>
+      <h3>Dubai Police · Weather Forecast &amp; Flood Monitoring</h3>
+      <p>Spring Boot backend that predicts rainwater pooling across 5 Dubai Police sites (670,000+ m²): OpenID Connect SSO with the Dubai Police identity server, automated NCM weather ingestion and bilingual flood alerts, role-based admin APIs, secure file uploads, and mock government APIs for QA.</p>
+      <span class="project-stack">Java · Spring Boot · OIDC · OAuth2 · Oracle · WebLogic · NCM APIs</span>
+    </article>
     <article class="project-card project-banking">
-      <div class="project-topline"><span>Banking · Microservices</span><span aria-hidden="true">02</span></div>
+      <div class="project-topline"><span>Banking · Microservices</span><span aria-hidden="true">03</span></div>
       <div class="project-icon" aria-hidden="true">▤</div>
       <h3>RetailCore &amp; Credix 7.1</h3>
       <p>Legacy banking re-architected into API-driven microservices—customer, address, and beneficiary management, third-party and external transfers, credit cards—plus centralized retail-credit analysis integrating core banking and loan origination.</p>
       <span class="project-stack">Java 17 · Spring Boot · REST · MySQL · Oracle</span>
     </article>
     <article class="project-card project-genie">
-      <div class="project-topline"><span>AI · Productivity</span><span aria-hidden="true">03</span></div>
+      <div class="project-topline"><span>AI · Productivity</span><span aria-hidden="true">04</span></div>
       <div class="project-icon" aria-hidden="true">✳</div>
       <h3>Email Reply Genie</h3>
       <p>An AI-powered assistant that drafts thoughtful, tone-aware email replies in seconds.</p>
       <a href="https://github.com/yuvaranianbu27/email-reply-genie" aria-label="View Email Reply Genie on GitHub">View project <span aria-hidden="true">→</span></a>
     </article>
     <article class="project-card project-store">
-      <div class="project-topline"><span>Full stack · E-commerce</span><span aria-hidden="true">04</span></div>
+      <div class="project-topline"><span>Full stack · E-commerce</span><span aria-hidden="true">05</span></div>
       <div class="project-icon" aria-hidden="true">◇</div>
       <h3>YR Store</h3>
       <p>A full-stack e-commerce application pairing a React storefront with a Spring Boot REST API for a smooth, intuitive shopping experience.</p>
       <a href="https://github.com/yuvaranianbu27/Yr-Store" aria-label="View YR Store on GitHub">View project <span aria-hidden="true">→</span></a>
     </article>
     <article class="project-card project-docunorm">
-      <div class="project-topline"><span>Digital commerce · Workflow</span><span aria-hidden="true">05</span></div>
+      <div class="project-topline"><span>Digital commerce · Workflow</span><span aria-hidden="true">06</span></div>
       <div class="project-icon" aria-hidden="true">▧</div>
       <h3>DocuNorm</h3>
       <p>A secure workflow-based platform for searching, previewing, and purchasing international standards (ISO, IEC, IEEE, ANSI, ASTM and more) with carts, secure payments, licence-based downloads, and admin controls.</p>
