@@ -10,31 +10,37 @@
 
 <br>
 
-## 👋 About Me
+## Hello, I’m Yuvarani 👋
 
-I’m a **Full Stack and Java Backend Engineer** with **five years of experience** architecting secure, resilient and high-performance platforms for the **government and banking sectors**.
+I build the dependable machinery behind digital public services: the APIs, identity flows and data pipelines that let people sign a tenancy contract, pay a fee or receive a flood warning without ever thinking about what happens underneath.
 
-Today, I engineer Java 21 and Spring Boot microservices for **DubaiNow**, Dubai’s premier digital gateway to government services, operated by the Dubai Digital Authority. There, I integrate **Dubai Land Department (DLD)**, **DEWA** and **UAE Pass** services to power Ejari tenancy and property journeys used by residents across Dubai. I also engineered the Spring Boot backend of the **Dubai Police Weather Forecast & Flood Monitoring System**, with OpenID Connect single sign-on and automated flood early warnings.
+Five years in, my work has moved from modernising core-banking systems in Chennai to shaping government platforms in Dubai. The constant throughout has been a fascination with systems that must be correct, secure and calm under pressure.
 
-I enjoy owning features end to end, from API design and data modelling to responsive, accessible interfaces, and I take pride in clean, well-tested code that delivers measurable business outcomes.
+> 📍 Dubai, UAE &nbsp;·&nbsp; 🌱 Currently exploring event-driven design with Kafka &nbsp;·&nbsp; 💬 Open to full stack and Java backend roles
 
-> 📍 Dubai, UAE · 💼 Open to Full Stack, Java Backend and Software Engineering opportunities
+## 🔭 What I’m working on
 
-## 📈 Impact at a Glance
+**Renting a home in Dubai, reimagined for the phone.** At Datacell Solutions, I help power the Ejari experience inside **DubaiNow**, the Dubai Digital Authority’s super app. Tenants and landlords can now register, renew, terminate or cancel a contract end to end, sign it with **UAE Pass**, settle the fees and switch on DEWA electricity and water, all in a single sitting.
 
-| | |
-| :--- | :--- |
-| 🏛️ **3 government projects in 12 months** | Delivered for DDA (DubaiNow), DLD, DEWA and Dubai Police |
-| 🌧️ **5 Dubai Police sites monitored** | Flood prediction across 670,000+ m² with 85 mapped elevation zones |
-| ⏱️ **QA test data in 3 hours** | Provisioned complete Ejari test data, unblocking end-to-end QA |
-| ⚡ **15% faster APIs** | Redis caching and session-management strategy on DubaiNow |
-| 🔌 **50+ production REST APIs** | Designed and deployed for regulated core-banking platforms |
-| 🔐 **10% less unauthorized access** | Hardened services with Spring Security, OAuth2 and JWT |
-| 🚀 **25% shorter deployments** | Streamlined Jenkins and Git CI/CD pipelines |
-| 🛡️ **30% fewer production incidents** | Diagnosed and resolved 50+ application defects |
-| ✅ **95% on-time delivery** | Across 20+ Agile sprints, with 1,000+ code changes contributed |
+**Keeping Dubai Police one step ahead of the rain.** I engineered the Spring Boot backend of a weather and flood-monitoring platform that turns national meteorological data into early warnings for five operational sites. Officers sign in once through **OpenID Connect**, and the system watches the forecast so that nobody has to.
 
-## 🧰 Technology Toolkit
+## ✨ Moments I’m proud of
+
+- 🏛️ Shipped **three government projects in my first twelve months** in Dubai, working alongside DDA, DLD, DEWA and Dubai Police.
+- ⏱️ Turned around a **complete Ejari test dataset in three hours**, so QA could start end-to-end testing the same day.
+- 🌧️ Modelled rainwater pooling across **670,000+ m²** of Dubai Police sites, mapped into 85 elevation zones.
+- ⚡ Shaved **15%** off API response times on DubaiNow with a deliberate Redis caching strategy.
+- 🏦 Helped retire legacy banking code by shipping **50+ production REST APIs**, while cutting unauthorised access by **10%**.
+- 🚀 Made releases **25%** faster and production incidents **30%** rarer through better pipelines and patient root-cause work.
+
+## 🧭 How I like to work
+
+- **Security is designed in, not bolted on.** Identity, tokens and least-privilege access are part of the first sketch.
+- **Unblock the whole team.** Mock APIs, realistic test data and clear runbooks matter as much as the feature itself.
+- **Measure what matters.** If a change is worth making, it is worth proving with a number.
+- **Pair with AI, own the result.** I use Claude and Claude Code to move faster, and I review every line as if I wrote it by hand.
+
+## 🧰 Toolkit
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java_8%20%7C%2017%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8, 17, and 21">
@@ -43,13 +49,12 @@ I enjoy owning features end to end, from API design and data modelling to respon
   <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white" alt="OpenID Connect">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Microservices-5B6ABF?style=flat-square" alt="Microservices">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -58,98 +63,56 @@ I enjoy owning features end to end, from API design and data modelling to respon
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude AI">
 </div>
 
-| Focus | Skills |
+<br>
+
+| I reach for… | When I need to… |
 | --- | --- |
-| **Backend engineering** | Java 8/17/21, Spring Boot, Spring MVC, Spring Batch, Spring Data JPA, Hibernate ORM, Maven, Tomcat |
-| **Microservices & integration** | RESTful API design, Spring Cloud Gateway, Eureka service discovery, Apache Kafka, Redis, iPaaS gateway integrations |
-| **Frontend** | React.js, Redux, JavaScript, Apache FreeMarker (bilingual English/Arabic), Tailwind CSS, Material UI, HTML5, CSS3 |
-| **Data** | MySQL, Oracle, MongoDB, SQL query tuning and optimization |
-| **Security** | Spring Security, OAuth2, OpenID Connect (OIDC), SSO, JWT, RBAC, UAE Pass, secure file-upload validation, secrets management |
-| **Testing & quality** | JUnit, Mockito, API mocking, QA test data provisioning, Swagger / OpenAPI, UAT |
-| **Cloud, DevOps & observability** | Docker, Kubernetes, AWS, Jenkins CI/CD, Git & GitHub, Prometheus, Grafana |
-| **AI-assisted engineering** | Claude AI, Claude Code, prompt engineering, token usage and context optimization, AI-assisted code review |
-| **Ways of working** | Agile / Scrum, JIRA, Postman, IntelliJ IDEA, Spring Tool Suite, VS Code |
+| Java 21, Spring Boot, Spring Data JPA, Hibernate | build services that stay readable long after launch |
+| REST, iPaaS and ESB gateways, Kafka, Eureka | connect systems that were never designed to talk to each other |
+| OAuth2, OpenID Connect, JWT, UAE Pass, Spring Security | make sure the right person, and only the right person, gets in |
+| Oracle, MySQL, MongoDB, Redis | keep data consistent and responses fast |
+| React, Redux, FreeMarker, Tailwind CSS, Material UI | give people a clear, bilingual interface to all of the above |
+| Jenkins, Docker, Kubernetes, WebLogic, Prometheus, Grafana | ship confidently and see what production is really doing |
+| JUnit, Mockito, Postman, OpenAPI | prove that it works before anyone else has to |
+| Claude, Claude Code | think faster, refactor safely and spend tokens wisely |
 
-## 💼 Professional Experience
+## 🗂️ Where I’ve been
 
-### Software Developer · Datacell Solutions · Dubai
-*December 2025 – Present*
+| When | Role | The short story |
+| --- | --- | --- |
+| 2025 – now | **Software Developer**, Datacell Solutions, Dubai | Government platforms for DubaiNow and Dubai Police: tenancy journeys, identity, flood alerts. |
+| 2023 – 2025 | **Software Engineer**, Scope e-Knowledge Center | Core-banking modernisation: RetailCore microservices and the Credix credit workbench. |
+| 2021 – 2023 | **Associate Software Engineer**, Scope e-Knowledge Center | DocuNorm, a licensed-standards marketplace, plus faster pipelines and steadier releases. |
 
-Full Stack Engineer on **DubaiNow**, the Dubai Digital Authority’s comprehensive smart-services ecosystem.
+## 🛠️ Things I build for fun
 
-- Design and deliver backend services on Java 21, Spring Boot and a microservices architecture, engineered for scalability and long-term maintainability.
-- Orchestrate integrations with DLD and DEWA through the iPaaS gateway, incorporating UAE Pass digital signatures and secure online fee collection.
-- Lifted API responsiveness by **15%** through a Redis caching and session-management strategy.
-- Craft bilingual (English/Arabic) server-rendered user journeys with Apache FreeMarker.
-- Provisioned complete Ejari test data for QA within **3 hours**, unblocking end-to-end testing of all tenancy journeys.
-- Partner with DLD and DEWA stakeholders through User Acceptance Testing to resolve defects ahead of each release.
-- Engineered the Spring Boot backend for the **Dubai Police Weather Forecast & Flood Monitoring System**, with OpenID Connect SSO, role-based access and automated NCM flood early warnings across **5 sites**.
-
-### Software Engineer · Scope e-Knowledge Center · Chennai
-*November 2023 – April 2025*
-
-- Drove the modernization of core-banking platforms, designing and deploying **50+ RESTful APIs** on Java 17 and Spring Boot in line with banking regulations.
-- Built responsive front-end interfaces with React.js and Tailwind CSS, delivering features end to end across the full stack.
-- Hardened the platform with Spring Security, OAuth2 and JWT, reducing unauthorized access by **10%**.
-- Built a robust data layer with Spring Data JPA and Hibernate across MySQL and Oracle, tuning complex SQL for throughput and efficiency.
-- Enabled resilient, event-driven communication with Apache Kafka and dynamic service discovery with Spring Cloud and Eureka.
-
-### Associate Software Engineer · Scope e-Knowledge Center · Chennai
-*March 2021 – November 2023*
-
-- Accelerated release cadence by streamlining Jenkins and Git CI/CD pipelines, shortening deployment cycles by **25%**.
-- Strengthened production stability by resolving 50+ defects, contributing to a **30%** decline in production incidents.
-- Contributed 1,000+ code changes and helped the team achieve **95%** on-time delivery across 20+ Agile sprints.
-
-## 🏗️ Selected Professional Projects
-
-| Project | Highlights |
+| Project | The idea |
 | --- | --- |
-| 🏠 **DubaiNow – Ejari Services** | End-to-end tenancy registration, renewal and termination for tenants and landlords, featuring guided multi-step journeys, live contract-progress tracking, status-driven Ejari history, UAE Pass digital signing, Ejari fee payment and DEWA activation. |
-| 🌧️ **Dubai Police – Weather Forecast & Flood Monitoring** | Spring Boot and Oracle backend (18 REST controllers, 14-table schema) predicting rainwater pooling across 5 Dubai Police sites. Features OpenID Connect SSO with the Dubai Police identity server, automated NCM weather ingestion and bilingual flood alerts, secure admin APIs and mock government APIs for QA. |
-| 📐 **DubaiNow – Area Modification** | A fully digital property area-modification service with clear guidance and transparent fees, automating site-plan retrieval, DLD payments and the issuance of updated title deeds and receipts. |
-| 🏦 **RetailCore** | Legacy core banking re-engineered into an API-first microservices suite covering customer and beneficiary management, address and KYC updates, third-party and external transfers, payment-gateway integration and credit-card services. |
-| 📊 **Credix 7.1 – CR Workbench** | Centralized credit analysis and workflow management for retail lending, seamlessly integrating core banking and loan-origination systems. |
-| 📚 **DocuNorm** | A secure, workflow-driven e-commerce platform for licensed international standards (ISO, IEC, IEEE, ANSI, ASTM, BIS, DIN, JIS), with search and preview, secure checkout, licence-controlled downloads and an administrative console. |
-
-## 🚀 Open-Source Projects
-
-| Project | What it does |
-| --- | --- |
-| 🌍 **[GeoPulse](https://github.com/yuvaranianbu27/geopulse)** | An event-driven prototype that ingests real-time driver locations with Java and Apache Kafka. |
-| 📒 **[LedgerX](https://github.com/yuvaranianbu27/LedgerX)** | A Java ledger domain foundation modelling accounts, transactions and double-entry journal entries. |
-| 🤖 **[Email Reply Genie](https://github.com/yuvaranianbu27/Email-Reply-Genie)** | An AI-powered assistant that drafts thoughtful, tone-aware email replies in seconds. |
-| 🛍️ **[YR Store](https://github.com/yuvaranianbu27/YR-Store)** | A full-stack e-commerce application pairing a React storefront with a Spring Boot REST API. |
-| 🔐 **[CryptoPulse](https://github.com/yuvaranianbu27/CryptoPulse)** | A cryptocurrency application backend prototype with account management and authentication scaffolding. |
+| 🛍️ **[YR Store](https://github.com/yuvaranianbu27/YR-Store)** | A complete shop with a React storefront, a Spring Boot API, JWT sign-in and Stripe checkout. |
+| 🤖 **[Email Reply Genie](https://github.com/yuvaranianbu27/Email-Reply-Genie)** | Paste an email, pick a tone, and let Google Gemini draft a reply you can send in seconds. |
+| 🌍 **[GeoPulse](https://github.com/yuvaranianbu27/geopulse)** | An early experiment in streaming driver locations through Kafka for real-time matching. |
+| 📒 **[LedgerX](https://github.com/yuvaranianbu27/LedgerX)** | The foundations of a double-entry ledger: accounts, transactions and journal entries. |
+| 🔐 **[CryptoPulse](https://github.com/yuvaranianbu27/CryptoPulse)** | Groundwork for a crypto platform, starting with secure accounts and authentication. |
 
 <div align="center">
-  <a href="https://github.com/yuvaranianbu27?tab=repositories"><strong>Explore all repositories →</strong></a>
+  <a href="https://github.com/yuvaranianbu27?tab=repositories"><strong>Browse every repository →</strong></a>
 </div>
 
-## 🎓 Education
+## 🎓 Learning
 
-**Bachelor of Engineering, Materials Science and Engineering**
-College of Engineering, Guindy (CEG), Anna University · Chennai · 2013 – 2017
+**B.E., Materials Science and Engineering** · College of Engineering, Guindy (Anna University) · 2013 – 2017
 
-## 🏅 Certifications
-
-| Credential | Issuer | Earned |
+| Credential | Issued by | Year |
 | --- | --- | --- |
-| [DubaiNow – UnifyApps Participation Certificate](https://skills.dubai.ae/verification/YXR0YWNobWVudElkPTRhNTNmNTcyLTFlZWEtNGEwNS1hMGVmLTM1MjE2MTcxYjA5NiZsZWFybmluZ0FjdGl2aXR5SWQ9MzUzODcmbGVhcm5lclVzZXJJZD04MDU3Nzg=) | Digital Dubai Authority | June 2026 |
-| [Java (Basic)](https://www.hackerrank.com/certificates/96e3dbeda218) | HackerRank | February 2022 |
-| [SQL (Basic)](https://www.hackerrank.com/certificates/68b0fb9b76f7) | HackerRank | March 2022 |
+| [DubaiNow – UnifyApps Participation Certificate](https://skills.dubai.ae/verification/YXR0YWNobWVudElkPTRhNTNmNTcyLTFlZWEtNGEwNS1hMGVmLTM1MjE2MTcxYjA5NiZsZWFybmluZ0FjdGl2aXR5SWQ9MzUzODcmbGVhcm5lclVzZXJJZD04MDU3Nzg=) | Digital Dubai Authority | 2026 |
+| [Java (Basic)](https://www.hackerrank.com/certificates/96e3dbeda218) | HackerRank | 2022 |
+| [SQL (Basic)](https://www.hackerrank.com/certificates/68b0fb9b76f7) | HackerRank | 2022 |
 
-## 🤝 Let’s Connect
+## 📫 Say hello
 
-I’m always glad to talk about full stack and backend engineering, digital-government platforms or new career opportunities. Feel free to reach out.
+If you are building something that has to be secure, reliable and genuinely useful, I would love to hear about it.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yuvaranianbu"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
   <a href="mailto:yuvaranianbu27@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yuvarani"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Thank you for visiting. Every repository here is a step in a journey of continuous learning.</sub>
 </div>
