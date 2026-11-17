@@ -28,7 +28,11 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
       <span>OAuth2 · JWT</span>
       <span>Apache Kafka</span>
       <span>Redis</span>
-      <span>Oracle · MySQL</span>
+      <span>Oracle Database</span>
+      <span>MySQL</span>
+      <span>MongoDB</span>
+      <span>SQL</span>
+      <span>Spring Data JPA · Hibernate</span>
       <span>FreeMarker</span>
       <span>Docker · Jenkins</span>
     </div>
@@ -136,7 +140,7 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
     <article class="skill-card">
       <span class="card-number">04</span>
       <h3>Data at speed</h3>
-      <p>Oracle, MySQL and MongoDB for the record of truth, Redis for the moments when every millisecond counts, and careful SQL tuning in between.</p>
+      <p>Oracle Database, MySQL and MongoDB for the record of truth, modelled through Spring Data JPA and Hibernate, with relational schema design, SQL query tuning, versioned migrations and Redis for the moments when every millisecond counts.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">05</span>
