@@ -38,7 +38,7 @@ Five years in, my work has moved from modernising core-banking systems in Chenna
 - **Security is designed in, not bolted on.** Identity, tokens and least-privilege access are part of the first sketch.
 - **Unblock the whole team.** Mock APIs, realistic test data and clear runbooks matter as much as the feature itself.
 - **Measure what matters.** If a change is worth making, it is worth proving with a number.
-- **Pair with AI, own the result.** I use Claude and Claude Code to move faster, and I review every line as if I wrote it by hand.
+- **Pair with AI, own the result.** I use Claude, Claude Code and Codex to move faster, and I review every line as if I wrote it by hand.
 
 ## 🧰 Toolkit
 
@@ -61,6 +61,7 @@ Five years in, my work has moved from modernising core-banking systems in Chenna
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude AI">
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex">
 </div>
 
 <br>
@@ -74,7 +75,7 @@ Five years in, my work has moved from modernising core-banking systems in Chenna
 | React, Redux, FreeMarker, Tailwind CSS, Material UI | give people a clear, bilingual interface to all of the above |
 | Jenkins, Docker, Kubernetes, WebLogic, Prometheus, Grafana | ship confidently and see what production is really doing |
 | JUnit, Mockito, Postman, OpenAPI | prove that it works before anyone else has to |
-| Claude, Claude Code | think faster, refactor safely and spend tokens wisely |
+| Claude, Claude Code, OpenAI Codex | think faster, refactor safely and spend tokens wisely |
 
 ## 🗂️ Where I’ve been
 

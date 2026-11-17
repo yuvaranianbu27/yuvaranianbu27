@@ -150,7 +150,7 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
     <article class="skill-card">
       <span class="card-number">06</span>
       <h3>Shipping with confidence</h3>
-      <p>Jenkins, Docker, Kubernetes, Prometheus and Grafana, tested with JUnit and Mockito, and accelerated by Claude and Claude Code with every token spent deliberately.</p>
+      <p>Jenkins, Docker, Kubernetes, Prometheus and Grafana, tested with JUnit and Mockito, and accelerated by Claude, Claude Code and OpenAI Codex with every token spent deliberately.</p>
     </article>
   </div>
 </section>
