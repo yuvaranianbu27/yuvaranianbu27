@@ -14,7 +14,7 @@
 
 I’m a **Full Stack and Java Backend Engineer** with **five years of experience** architecting secure, resilient and high-performance platforms for the **government and banking sectors**.
 
-Today, I engineer Java 21 and Spring Boot microservices for **DubaiNow**, Dubai’s premier digital gateway to government services, operated by the Dubai Digital Authority. There, I integrate **Dubai Land Department (DLD)**, **DEWA** and **UAE Pass** services to power Ejari tenancy and property journeys used by residents across Dubai.
+Today, I engineer Java 21 and Spring Boot microservices for **DubaiNow**, Dubai’s premier digital gateway to government services, operated by the Dubai Digital Authority. There, I integrate **Dubai Land Department (DLD)**, **DEWA** and **UAE Pass** services to power Ejari tenancy and property journeys used by residents across Dubai. I also engineered the Spring Boot backend of the **Dubai Police Weather Forecast & Flood Monitoring System**, with OpenID Connect single sign-on and automated flood early warnings.
 
 I enjoy owning features end to end, from API design and data modelling to responsive, accessible interfaces, and I take pride in clean, well-tested code that delivers measurable business outcomes.
 
@@ -24,6 +24,9 @@ I enjoy owning features end to end, from API design and data modelling to respon
 
 | | |
 | :--- | :--- |
+| 🏛️ **3 government projects in 12 months** | Delivered for DDA (DubaiNow), DLD, DEWA and Dubai Police |
+| 🌧️ **5 Dubai Police sites monitored** | Flood prediction across 670,000+ m² with 85 mapped elevation zones |
+| ⏱️ **QA test data in 3 hours** | Provisioned complete Ejari test data, unblocking end-to-end QA |
 | ⚡ **15% faster APIs** | Redis caching and session-management strategy on DubaiNow |
 | 🔌 **50+ production REST APIs** | Designed and deployed for regulated core-banking platforms |
 | 🔐 **10% less unauthorized access** | Hardened services with Spring Security, OAuth2 and JWT |
@@ -37,6 +40,7 @@ I enjoy owning features end to end, from API design and data modelling to respon
   <img src="https://img.shields.io/badge/Java_8%20%7C%2017%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8, 17, and 21">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white" alt="OpenID Connect">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Microservices-5B6ABF?style=flat-square" alt="Microservices">
@@ -51,6 +55,7 @@ I enjoy owning features end to end, from API design and data modelling to respon
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude AI">
 </div>
 
 | Focus | Skills |
@@ -59,8 +64,10 @@ I enjoy owning features end to end, from API design and data modelling to respon
 | **Microservices & integration** | RESTful API design, Spring Cloud Gateway, Eureka service discovery, Apache Kafka, Redis, iPaaS gateway integrations |
 | **Frontend** | React.js, Redux, JavaScript, Apache FreeMarker (bilingual English/Arabic), Tailwind CSS, Material UI, HTML5, CSS3 |
 | **Data** | MySQL, Oracle, MongoDB, SQL query tuning and optimization |
-| **Security & quality** | Spring Security, OAuth2, JWT, UAE Pass integration, JUnit, Mockito, Swagger / OpenAPI |
+| **Security** | Spring Security, OAuth2, OpenID Connect (OIDC), SSO, JWT, RBAC, UAE Pass, secure file-upload validation, SAST remediation, secrets management |
+| **Testing & quality** | JUnit, Mockito, API mocking, QA test data provisioning, Swagger / OpenAPI, UAT |
 | **Cloud, DevOps & observability** | Docker, Kubernetes, AWS, Jenkins CI/CD, Git & GitHub, Prometheus, Grafana |
+| **AI-assisted engineering** | Claude AI, Claude Code, prompt engineering, token usage and context optimization, AI-assisted code review |
 | **Ways of working** | Agile / Scrum, JIRA, Postman, IntelliJ IDEA, Spring Tool Suite, VS Code |
 
 ## 💼 Professional Experience
@@ -74,7 +81,9 @@ Full Stack Engineer on **DubaiNow**, the Dubai Digital Authority’s comprehensi
 - Orchestrate integrations with DLD and DEWA through the iPaaS gateway, incorporating UAE Pass digital signatures and secure online fee collection.
 - Lifted API responsiveness by **15%** through a Redis caching and session-management strategy.
 - Craft bilingual (English/Arabic) server-rendered user journeys with Apache FreeMarker.
+- Provisioned complete Ejari test data for QA within **3 hours**, unblocking end-to-end testing of all tenancy journeys.
 - Partner with DLD and DEWA stakeholders through User Acceptance Testing to resolve defects ahead of each release.
+- Engineered the Spring Boot backend for the **Dubai Police Weather Forecast & Flood Monitoring System**, with OpenID Connect SSO, role-based access and automated NCM flood early warnings across **5 sites**.
 
 ### Software Engineer · Scope e-Knowledge Center · Chennai
 *November 2023 – April 2025*
@@ -97,6 +106,7 @@ Full Stack Engineer on **DubaiNow**, the Dubai Digital Authority’s comprehensi
 | Project | Highlights |
 | --- | --- |
 | 🏠 **DubaiNow – Ejari Services** | End-to-end tenancy registration, renewal and termination for tenants and landlords, featuring guided multi-step journeys, live contract-progress tracking, status-driven Ejari history, UAE Pass digital signing, Ejari fee payment and DEWA activation. |
+| 🌧️ **Dubai Police – Weather Forecast & Flood Monitoring** | Spring Boot and Oracle backend (18 REST controllers, 14-table schema) predicting rainwater pooling across 5 Dubai Police sites. Features OpenID Connect SSO with the Dubai Police identity server, automated NCM weather ingestion and bilingual flood alerts, secure admin APIs and mock government APIs for QA. |
 | 📐 **DubaiNow – Area Modification** | A fully digital property area-modification service with clear guidance and transparent fees, automating site-plan retrieval, DLD payments and the issuance of updated title deeds and receipts. |
 | 🏦 **RetailCore** | Legacy core banking re-engineered into an API-first microservices suite covering customer and beneficiary management, address and KYC updates, third-party and external transfers, payment-gateway integration and credit-card services. |
 | 📊 **Credix 7.1 – CR Workbench** | Centralized credit analysis and workflow management for retail lending, seamlessly integrating core banking and loan-origination systems. |
