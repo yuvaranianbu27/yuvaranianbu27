@@ -69,18 +69,12 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
 
 <section class="section about-section">
   <div class="section-heading">
-    <p class="eyebrow">Summary</p>
-    <h2>Engineering that is secure, <span>scalable and accountable.</span></h2>
+    <p class="eyebrow">The short version</p>
+    <h2>Calm systems for <span>high-stakes moments.</span></h2>
   </div>
   <div class="about-copy">
-    <p>I combine deep backend expertise with hands-on frontend delivery, owning features from architecture and data design through testing, UAT and production release. My work spans regulated banking and public-sector platforms where reliability, security and clear user experience are non-negotiable.</p>
-    <ul class="summary-list">
-      <li><strong>Security and identity:</strong> OpenID Connect single sign-on, OAuth2, JWT, role-based access and UAE Pass digital signatures.</li>
-      <li><strong>Integration:</strong> government and banking APIs through iPaaS and ESB gateways, Kafka messaging and resilient retry handling.</li>
-      <li><strong>Data and performance:</strong> Oracle, MySQL and MongoDB design with Spring Data JPA, plus Redis caching that cut DubaiNow response times by 15%.</li>
-      <li><strong>Frontend:</strong> React, Redux and Tailwind CSS on the web, and bilingual English and Arabic FreeMarker screens for Android and iOS.</li>
-      <li><strong>Delivery:</strong> Jenkins CI/CD, QA enablement with mock APIs and test data, and AI-assisted engineering with Claude.</li>
-    </ul>
+    <p>My career began inside banks, where a misplaced decimal is never a small bug. Rebuilding legacy core-banking services taught me to respect correctness, guard every door with proper authentication and treat production as sacred.</p>
+    <p>Dubai raised the stakes and widened the audience. Within a year I had contributed to three government programmes, weaving together land registry, utilities, national identity and meteorological services so that citizens and officers simply see a service that works. I still enjoy the full journey, from schema and security model to the bilingual screen a resident finally taps.</p>
   </div>
 </section>
 
