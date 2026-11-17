@@ -233,6 +233,7 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 .project-card > a, .all-projects { position: relative; z-index: 1; color: var(--cyan); font-size: .88rem; font-weight: 700; }
 .project-card > a span, .all-projects span { margin-left: .4rem; }
 .project-stack { position: relative; z-index: 1; display: block; color: var(--cyan); font-size: .75rem; line-height: 1.6; }
+.project-stack + a { display: inline-block; margin-top: .8rem; }
 .all-projects { display: inline-block; margin-top: 1.5rem; }
 
 .education-section { padding-top: 2rem; }
