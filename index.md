@@ -19,6 +19,11 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
       <span>Microservices</span>
       <span>REST APIs</span>
       <span>React</span>
+      <span>Redux</span>
+      <span>JavaScript (ES6+)</span>
+      <span>HTML5 · CSS3</span>
+      <span>Tailwind CSS</span>
+      <span>Material UI</span>
       <span>OpenID Connect</span>
       <span>OAuth2 · JWT</span>
       <span>Apache Kafka</span>
@@ -136,7 +141,7 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
     <article class="skill-card">
       <span class="card-number">05</span>
       <h3>Interfaces people use</h3>
-      <p>React, Redux and Tailwind CSS on the web, and FreeMarker templates that render the same journey in English and Arabic on Android and iOS.</p>
+      <p>React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS and Material UI on the web, and FreeMarker templates that render the same journey in English and Arabic on Android and iOS.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">06</span>
