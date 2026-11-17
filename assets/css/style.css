@@ -273,6 +273,7 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 .contact-section { padding: 5rem max(1.5rem, calc((100% - var(--content)) / 2)); background: linear-gradient(120deg, #242044, #17223a 72%); border-top: 1px solid rgba(184, 161, 255, .2); border-bottom: 1px solid rgba(184, 161, 255, .2); }
 .contact-section h2 { max-width: 700px; }
 .contact-section > p:not(.eyebrow) { max-width: 600px; margin-bottom: 1.7rem; color: var(--muted); }
+.contact-section > p a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
 .button-light { background: var(--text); color: #17182a; }
 .button-light:hover { background: white; }
 .social-link { padding: .6rem .25rem; color: var(--text); font-size: .9rem; font-weight: 600; }

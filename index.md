@@ -8,15 +8,24 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
   <div class="hero-content">
     <p class="eyebrow"><span class="status-dot"></span> Engineer for public-scale systems · Dubai</p>
     <h1>Hi, I’m <span>Yuvarani Anbu.</span></h1>
-    <p class="hero-copy">I design the backstage of digital government. When a Dubai resident signs a lease on their phone, or a police operations team is warned before the water rises, there is a quiet layer of Java, identity and data making it feel effortless. That layer is where I do my best work.</p>
+    <p class="hero-copy">Full Stack and Java Backend Engineer with five years of experience delivering secure, high-availability platforms for Dubai’s digital government and regulated banking, specialising in Spring Boot microservices, identity and enterprise integration.</p>
     <div class="hero-actions">
       <a class="button button-primary" href="#projects">See what I’ve built <span aria-hidden="true">↓</span></a>
-      <a class="button button-secondary" href="mailto:yuvaranianbu27@gmail.com">Start a conversation <span aria-hidden="true">↗</span></a>
+      <a class="button button-secondary" href="#contact">Start a conversation <span aria-hidden="true">↓</span></a>
     </div>
     <div class="hero-meta">
-      <span>Spring Boot · Java 21</span>
-      <span>OpenID Connect · React</span>
-      <span>Based in Dubai</span>
+      <span>Java 21</span>
+      <span>Spring Boot</span>
+      <span>Microservices</span>
+      <span>REST APIs</span>
+      <span>React</span>
+      <span>OpenID Connect</span>
+      <span>OAuth2 · JWT</span>
+      <span>Apache Kafka</span>
+      <span>Redis</span>
+      <span>Oracle · MySQL</span>
+      <span>FreeMarker</span>
+      <span>Docker · Jenkins</span>
     </div>
   </div>
   <div class="hero-art" role="img" aria-label="Yuvarani Anbu surrounded by icons for Java, Spring Boot, React, JavaScript, HTML, CSS, SQL, Redux, Tailwind CSS, MySQL, Oracle, Redis, Kafka, AWS, Docker, Kubernetes, and Jenkins.">
@@ -51,12 +60,12 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
 
 <section class="section about-section">
   <div class="section-heading">
-    <p class="eyebrow">The short version</p>
-    <h2>Calm systems for <span>high-stakes moments.</span></h2>
+    <p class="eyebrow">Summary</p>
+    <h2>Secure, scalable systems <span>with measurable impact.</span></h2>
   </div>
   <div class="about-copy">
-    <p>My career began inside banks, where a misplaced decimal is never a small bug. Rebuilding legacy core-banking services taught me to respect correctness, guard every door with proper authentication and treat production as sacred.</p>
-    <p>Dubai raised the stakes and widened the audience. Within a year I had contributed to three government programmes, weaving together land registry, utilities, national identity and meteorological services so that citizens and officers simply see a service that works. I still enjoy the full journey, from schema and security model to the bilingual screen a resident finally taps.</p>
+    <p>Results-oriented engineer with five years of experience across Java 21/17, Spring Boot, microservices and React. Currently delivering government services at Datacell Solutions for DubaiNow, Dubai Police, Dubai Land Department and DEWA, having completed three programmes within twelve months.</p>
+    <p>Core strengths include OpenID Connect and OAuth2 security, UAE Pass and government API integration, Oracle and MySQL data design, Redis performance tuning and bilingual FreeMarker interfaces. Previously modernised core-banking platforms through 50+ production REST APIs, with consistent ownership from architecture and testing to UAT and release.</p>
   </div>
 </section>
 
@@ -301,9 +310,9 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
 <section class="contact-section" id="contact">
   <p class="eyebrow">Building something that matters?</p>
   <h2>Let’s make it <span>dependable.</span></h2>
-  <p>Whether it is a public service, a payments flow or an idea still on the whiteboard, I would be glad to hear what you are working on.</p>
+  <p>Whether it is a public service, a payments flow or an idea still on the whiteboard, I would be glad to hear what you are working on. Write to me at <a href="mailto:yuvaranianbu27@gmail.com">yuvaranianbu27@gmail.com</a>.</p>
   <div class="contact-actions">
-    <a class="button button-light" href="mailto:yuvaranianbu27@gmail.com">Email me <span aria-hidden="true">↗</span></a>
+    <a class="button button-light" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=yuvaranianbu27@gmail.com&amp;su=Hello%20Yuvarani" target="_blank" rel="noopener noreferrer">Email me <span aria-hidden="true">↗</span></a>
     <a class="button button-linkedin" href="https://www.linkedin.com/in/yuvaranianbu" target="_blank" rel="noopener noreferrer" aria-label="Connect with Yuvarani Anbu on LinkedIn">
       <svg class="linkedin-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
         <path fill="currentColor" d="M20.45 2H3.55C2.69 2 2 2.68 2 3.52v16.96c0 .84.69 1.52 1.55 1.52h16.9c.86 0 1.55-.68 1.55-1.52V3.52c0-.84-.69-1.52-1.55-1.52ZM7.93 18.74H4.95V9.16h2.98v9.58ZM6.44 7.85a1.73 1.73 0 1 1 0-3.46 1.73 1.73 0 0 1 0 3.46Zm12.3 10.89h-2.97v-4.66c0-1.11-.02-2.54-1.55-2.54-1.55 0-1.79 1.21-1.79 2.46v4.74H9.46V9.16h2.85v1.31h.04c.4-.75 1.37-1.55 2.82-1.55 3.02 0 3.57 1.99 3.57 4.58v5.24Z"/>
