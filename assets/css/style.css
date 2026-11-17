@@ -191,6 +191,9 @@ h1 span, .section-heading h2 span, .contact-section h2 span { color: var(--accen
 .section-heading h2, .contact-section h2 { margin-bottom: 1rem; font-size: clamp(2rem, 4vw, 3rem); letter-spacing: -.05em; }
 .about-copy { padding-top: 2.1rem; color: var(--muted); }
 .about-copy p:last-child { margin-bottom: 0; }
+.summary-list { margin: 1.2rem 0 0; padding-left: 1.1rem; }
+.summary-list li { margin-bottom: .6rem; }
+.summary-list strong { color: var(--text); }
 .section-intro { max-width: 570px; color: var(--muted); }
 .impact-section { width: min(var(--content), calc(100% - 3rem)); margin: 0 auto; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .impact-grid { display: grid; grid-template-columns: repeat(4, 1fr); }

@@ -8,7 +8,7 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
   <div class="hero-content">
     <p class="eyebrow"><span class="status-dot"></span> Engineer for public-scale systems · Dubai</p>
     <h1>Hi, I’m <span>Yuvarani Anbu.</span></h1>
-    <p class="hero-copy">Full Stack and Java Backend Engineer with five years of experience delivering secure, high-availability platforms for Dubai’s digital government and regulated banking, specialising in Spring Boot microservices, identity and enterprise integration.</p>
+    <p class="hero-copy">Full Stack and Java Backend Engineer with five years of experience building secure, scalable platforms in Java 21/17, Spring Boot, microservices and React. At Datacell Solutions, I deliver digital-government services for DubaiNow, Dubai Police, Dubai Land Department and DEWA, completing three programmes in my first twelve months. Earlier, I modernised core-banking systems through more than 50 production REST APIs.</p>
     <div class="hero-actions">
       <a class="button button-primary" href="#projects">See what I’ve built <span aria-hidden="true">↓</span></a>
       <a class="button button-secondary" href="#contact">Start a conversation <span aria-hidden="true">↓</span></a>
@@ -70,11 +70,17 @@ description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai
 <section class="section about-section">
   <div class="section-heading">
     <p class="eyebrow">Summary</p>
-    <h2>Secure, scalable systems <span>with measurable impact.</span></h2>
+    <h2>Engineering that is secure, <span>scalable and accountable.</span></h2>
   </div>
   <div class="about-copy">
-    <p>Results-oriented engineer with five years of experience across Java 21/17, Spring Boot, microservices and React. Currently delivering government services at Datacell Solutions for DubaiNow, Dubai Police, Dubai Land Department and DEWA, having completed three programmes within twelve months.</p>
-    <p>Core strengths include OpenID Connect and OAuth2 security, UAE Pass and government API integration, Oracle and MySQL data design, Redis performance tuning and bilingual FreeMarker interfaces. Previously modernised core-banking platforms through 50+ production REST APIs, with consistent ownership from architecture and testing to UAT and release.</p>
+    <p>I combine deep backend expertise with hands-on frontend delivery, owning features from architecture and data design through testing, UAT and production release. My work spans regulated banking and public-sector platforms where reliability, security and clear user experience are non-negotiable.</p>
+    <ul class="summary-list">
+      <li><strong>Security and identity:</strong> OpenID Connect single sign-on, OAuth2, JWT, role-based access and UAE Pass digital signatures.</li>
+      <li><strong>Integration:</strong> government and banking APIs through iPaaS and ESB gateways, Kafka messaging and resilient retry handling.</li>
+      <li><strong>Data and performance:</strong> Oracle, MySQL and MongoDB design with Spring Data JPA, plus Redis caching that cut DubaiNow response times by 15%.</li>
+      <li><strong>Frontend:</strong> React, Redux and Tailwind CSS on the web, and bilingual English and Arabic FreeMarker screens for Android and iOS.</li>
+      <li><strong>Delivery:</strong> Jenkins CI/CD, QA enablement with mock APIs and test data, and AI-assisted engineering with Claude.</li>
+    </ul>
   </div>
 </section>
 
