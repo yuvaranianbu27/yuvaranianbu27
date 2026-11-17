@@ -1,22 +1,22 @@
 ---
 layout: default
 title: Yuvarani Anbu | Full Stack & Java Backend Engineer
-description: Full stack and Java backend engineer with five years of experience building secure Spring Boot microservices, React interfaces and digital-government services in Dubai.
+description: Yuvarani Anbu designs secure Java and Spring Boot systems for Dubai’s digital government, from UAE Pass tenancy journeys to Dubai Police flood early warnings.
 ---
 
 <section class="hero" id="about">
   <div class="hero-content">
-    <p class="eyebrow"><span class="status-dot"></span> Full Stack Engineer · Java Backend Engineer</p>
+    <p class="eyebrow"><span class="status-dot"></span> Engineer for public-scale systems · Dubai</p>
     <h1>Hi, I’m <span>Yuvarani Anbu.</span></h1>
-    <p class="hero-copy">I architect secure, scalable Java services and craft the interfaces that bring them to life. Over five years, I’ve delivered core-banking platforms and smart-government services for Dubai, combining Spring Boot microservices, React and a relentless focus on measurable impact.</p>
+    <p class="hero-copy">I design the backstage of digital government. When a Dubai resident signs a lease on their phone, or a police operations team is warned before the water rises, there is a quiet layer of Java, identity and data making it feel effortless. That layer is where I do my best work.</p>
     <div class="hero-actions">
-      <a class="button button-primary" href="#experience">Explore my experience <span aria-hidden="true">↓</span></a>
-      <a class="button button-secondary" href="mailto:yuvaranianbu27@gmail.com">Get in touch <span aria-hidden="true">↗</span></a>
+      <a class="button button-primary" href="#projects">See what I’ve built <span aria-hidden="true">↓</span></a>
+      <a class="button button-secondary" href="mailto:yuvaranianbu27@gmail.com">Start a conversation <span aria-hidden="true">↗</span></a>
     </div>
     <div class="hero-meta">
-      <span>Java 21 · Spring Boot</span>
-      <span>React · Microservices</span>
-      <span>Dubai, UAE</span>
+      <span>Spring Boot · Java 21</span>
+      <span>OpenID Connect · React</span>
+      <span>Based in Dubai</span>
     </div>
   </div>
   <div class="hero-art" role="img" aria-label="Yuvarani Anbu surrounded by icons for Java, Spring Boot, React, JavaScript, HTML, CSS, SQL, Redux, Tailwind CSS, MySQL, Oracle, Redis, Kafka, AWS, Docker, Kubernetes, and Jenkins.">
@@ -51,97 +51,97 @@ description: Full stack and Java backend engineer with five years of experience 
 
 <section class="section about-section">
   <div class="section-heading">
-    <p class="eyebrow">Backend engineering</p>
-    <h2>End-to-end engineering, <span>real-world impact.</span></h2>
+    <p class="eyebrow">The short version</p>
+    <h2>Calm systems for <span>high-stakes moments.</span></h2>
   </div>
   <div class="about-copy">
-    <p>I’m a full stack and Java backend engineer with five years of experience architecting secure, resilient platforms for the government and banking sectors. Today, I engineer Java 21 and Spring Boot microservices for DubaiNow, the Dubai Digital Authority’s pioneering citizen-services platform, integrating Dubai Land Department, DEWA and UAE Pass services that residents rely on every day.</p>
-    <p>I enjoy owning features end to end, from API design and data modelling to responsive, bilingual interfaces built with React and FreeMarker. I take pride in clean, well-tested code, close collaboration with stakeholders and solutions that deliver measurable business outcomes.</p>
+    <p>My career began inside banks, where a misplaced decimal is never a small bug. Rebuilding legacy core-banking services taught me to respect correctness, guard every door with proper authentication and treat production as sacred.</p>
+    <p>Dubai raised the stakes and widened the audience. Within a year I had contributed to three government programmes, weaving together land registry, utilities, national identity and meteorological services so that citizens and officers simply see a service that works. I still enjoy the full journey, from schema and security model to the bilingual screen a resident finally taps.</p>
   </div>
 </section>
 
 <section class="impact-section" aria-label="Career highlights">
   <div class="impact-grid">
     <article class="impact-card">
-      <strong>50+</strong>
-      <span>REST APIs delivered</span>
-    </article>
-    <article class="impact-card">
-      <strong>15%</strong>
-      <span>Faster API responses with Redis</span>
-    </article>
-    <article class="impact-card">
-      <strong>25%</strong>
-      <span>Shorter deployments with CI/CD</span>
-    </article>
-    <article class="impact-card">
-      <strong>30%</strong>
-      <span>Fewer production incidents</span>
-    </article>
-    <article class="impact-card">
       <strong>3</strong>
-      <span>Government projects in 12 months</span>
-    </article>
-    <article class="impact-card">
-      <strong>5</strong>
-      <span>Dubai Police sites monitored for flooding</span>
-    </article>
-    <article class="impact-card">
-      <strong>3 hrs</strong>
-      <span>To provision complete QA test data</span>
+      <span>Government programmes in a single year</span>
     </article>
     <article class="impact-card">
       <strong>4</strong>
-      <span>Government clients served</span>
+      <span>Public-sector partners, from DDA to Dubai Police</span>
+    </article>
+    <article class="impact-card">
+      <strong>670k m²</strong>
+      <span>Of police sites watched for flood risk</span>
+    </article>
+    <article class="impact-card">
+      <strong>3 hrs</strong>
+      <span>From request to a QA-ready Ejari dataset</span>
+    </article>
+    <article class="impact-card">
+      <strong>50+</strong>
+      <span>Banking APIs now running in production</span>
+    </article>
+    <article class="impact-card">
+      <strong>−15%</strong>
+      <span>Latency on DubaiNow after a Redis rethink</span>
+    </article>
+    <article class="impact-card">
+      <strong>−25%</strong>
+      <span>Time spent waiting on deployments</span>
+    </article>
+    <article class="impact-card">
+      <strong>−30%</strong>
+      <span>Incidents reaching production</span>
     </article>
   </div>
 </section>
 
 <section class="section skills-section" id="skills">
   <div class="section-heading">
-    <p class="eyebrow">My toolkit</p>
-    <h2>Skills &amp; technologies</h2>
-    <p class="section-intro">A versatile, production-proven toolkit for designing, securing, integrating and shipping software across the full stack.</p>
+    <p class="eyebrow">Craft</p>
+    <h2>The tools behind <span>the work</span></h2>
+    <p class="section-intro">Grouped by the problem each one helps me solve, rather than by a list of buzzwords.</p>
   </div>
   <div class="skill-grid">
     <article class="skill-card">
       <span class="card-number">01</span>
-      <h3>Backend</h3>
-      <p>Java 8/17/21 · Spring Boot · Spring MVC · Spring Batch · Spring Data JPA · Hibernate · Maven · Tomcat</p>
+      <h3>Services that last</h3>
+      <p>Java 21, 17 and 8 with Spring Boot, Spring MVC, Spring Data JPA, Hibernate and Spring Batch, packaged with Maven for Tomcat and WebLogic.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">02</span>
-      <h3>Microservices &amp; APIs</h3>
-      <p>RESTful API design · Spring Cloud Gateway · Apache Kafka · Redis · Eureka · iPaaS and government-service integrations</p>
+      <h3>Systems that cooperate</h3>
+      <p>REST contracts, iPaaS and ESB gateways, Spring Cloud Gateway, Eureka and Apache Kafka, with retries that recover gracefully instead of failing loudly.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">03</span>
-      <h3>Frontend</h3>
-      <p>React.js · Redux · JavaScript · FreeMarker (English/Arabic) · Tailwind CSS · Material UI · HTML5 · CSS3</p>
+      <h3>Trust and identity</h3>
+      <p>OpenID Connect single sign-on, OAuth 2.0, JWT, role-based access and UAE Pass signatures, all enforced through Spring Security.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">04</span>
-      <h3>Databases</h3>
-      <p>MySQL · Oracle · MongoDB · Spring Data JPA · Hibernate ORM · SQL tuning and optimization</p>
+      <h3>Data at speed</h3>
+      <p>Oracle, MySQL and MongoDB for the record of truth, Redis for the moments when every millisecond counts, and careful SQL tuning in between.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">05</span>
-      <h3>Security &amp; quality</h3>
-      <p>Spring Security · OAuth 2.0 · OpenID Connect (OIDC) · SSO · JWT · RBAC · UAE Pass · JUnit · Mockito · Swagger / OpenAPI</p>
+      <h3>Interfaces people use</h3>
+      <p>React, Redux and Tailwind CSS on the web, and FreeMarker templates that render the same journey in English and Arabic on Android and iOS.</p>
     </article>
     <article class="skill-card">
       <span class="card-number">06</span>
-      <h3>Cloud, delivery &amp; AI</h3>
-      <p>Claude AI · Claude Code · Prompt engineering · Token optimization · AWS · Docker · Kubernetes · Jenkins · Git · GitHub · JIRA · Postman · Prometheus · Grafana · Agile/Scrum · IntelliJ · Eclipse · STS · VS Code</p>
+      <h3>Shipping with confidence</h3>
+      <p>Jenkins, Docker, Kubernetes, Prometheus and Grafana, tested with JUnit and Mockito, and accelerated by Claude and Claude Code with every token spent deliberately.</p>
     </article>
   </div>
 </section>
 
 <section class="section experience-section" id="experience">
   <div class="section-heading">
-    <p class="eyebrow">Career journey</p>
-    <h2>Professional experience</h2>
-    <p class="section-intro">Five years of building and scaling production software across digital government, banking and e-commerce.</p>
+    <p class="eyebrow">The path so far</p>
+    <h2>Where I’ve <span>made a difference</span></h2>
+    <p class="section-intro">Three chapters, one thread: making complex, regulated systems feel simple to the people who depend on them.</p>
   </div>
   <div class="experience-list">
     <article class="experience-card">
@@ -153,14 +153,11 @@ description: Full stack and Java backend engineer with five years of experience 
         <p class="experience-date">Dec 2025 – Present</p>
       </div>
       <ul>
-        <li>Engineer backend services for DubaiNow, Dubai’s integrated smart-government platform, on Java 21, Spring Boot and a microservices architecture.</li>
-        <li>Orchestrate integrations with Dubai Land Department (DLD) and DEWA through the iPaaS gateway, incorporating UAE Pass digital signatures and secure online fee collection.</li>
-        <li>Lifted API responsiveness by 15% through a Redis caching and session-management strategy.</li>
-        <li>Craft bilingual (English/Arabic) server-rendered user journeys with Apache FreeMarker.</li>
-        <li>Deliver Ejari tenancy registration, renewal and termination, together with the Area Modification service, from site-plan retrieval to title-deed issuance.</li>
-        <li>Provisioned complete Ejari test data for QA within 3 hours, unblocking end-to-end testing of all tenancy journeys.</li>
-        <li>Engineered the Dubai Police Weather Forecast &amp; Flood Monitoring backend, with OpenID Connect SSO, role-based access and automated flood early warnings across 5 sites.</li>
-        <li>Partner with DLD and DEWA stakeholders through User Acceptance Testing to resolve defects ahead of each release.</li>
+        <li>Gave tenants and landlords a fully mobile Ejari experience inside DubaiNow, from the first property search to a UAE Pass signature and DEWA connection.</li>
+        <li>Designed journeys whose screens live on the server, so the team can reshape a flow without waiting for an app-store release.</li>
+        <li>Brought a Dubai Police flood-monitoring platform to life, pairing OpenID Connect sign-on with automated warnings drawn from national weather data.</li>
+        <li>Built stand-in versions of government APIs and a full Ejari dataset within three hours, so testers never sat idle waiting for live systems.</li>
+        <li>Made DubaiNow noticeably quicker by rethinking how and where Redis holds data.</li>
       </ul>
     </article>
     <article class="experience-card">
@@ -172,11 +169,10 @@ description: Full stack and Java backend engineer with five years of experience 
         <p class="experience-date">Nov 2023 – Apr 2025</p>
       </div>
       <ul>
-        <li>Drove core-banking modernization, designing and deploying 50+ RESTful APIs on Java 17 and Spring Boot in line with banking regulations.</li>
-        <li>Re-engineered legacy systems into RetailCore, an API-first microservices suite, and delivered Credix 7.1 credit-workflow integrations.</li>
-        <li>Built responsive front-end interfaces with React.js and Tailwind CSS, delivering features end to end across the full stack.</li>
-        <li>Hardened services with Spring Security, OAuth 2.0 and JWT, reducing unauthorized access by 10%.</li>
-        <li>Built a robust data layer with Spring Data JPA across MySQL and Oracle, and enabled event-driven messaging with Apache Kafka.</li>
+        <li>Helped a retail bank step away from its legacy core, replacing direct system calls with more than fifty well-defined APIs.</li>
+        <li>Shaped RetailCore around the moments that matter to customers: updating details, adding a beneficiary, moving money and managing cards.</li>
+        <li>Closed the door on unauthorised access with OAuth 2.0 and JWT, measurably reducing attempts that slipped through.</li>
+        <li>Connected core banking and loan origination in the Credix credit workbench, giving analysts one place to reach a lending decision.</li>
       </ul>
     </article>
     <article class="experience-card">
@@ -188,11 +184,10 @@ description: Full stack and Java backend engineer with five years of experience 
         <p class="experience-date">Mar 2021 – Nov 2023</p>
       </div>
       <ul>
-        <li>Engineered and supported enterprise web applications across the full software development lifecycle.</li>
-        <li>Accelerated releases by streamlining Jenkins and Git CI/CD pipelines, shortening deployment cycles by 25%.</li>
-        <li>Strengthened production stability by resolving 50+ defects, contributing to a 30% decline in incidents.</li>
-        <li>Contributed 1,000+ code changes and helped the team achieve 95% on-time delivery across 20+ Agile sprints.</li>
-        <li>Built DocuNorm, a secure, workflow-driven e-commerce platform for licensed international standards.</li>
+        <li>Learned the craft on DocuNorm, a marketplace where engineers discover and license international standards.</li>
+        <li>Rebuilt the delivery pipeline so that a release took a quarter less time to reach users.</li>
+        <li>Chased down more than fifty defects at their root, leaving production noticeably quieter.</li>
+        <li>Kept promises to the business, landing nearly every sprint commitment across twenty-plus iterations.</li>
       </ul>
     </article>
   </div>
@@ -200,63 +195,63 @@ description: Full stack and Java backend engineer with five years of experience 
 
 <section class="section projects-section" id="projects">
   <div class="section-heading">
-    <p class="eyebrow">Selected work</p>
-    <h2>Products &amp; projects</h2>
-    <p class="section-intro">A selection of professional products and personal projects spanning digital government, banking, AI and e-commerce.</p>
+    <p class="eyebrow">Case studies</p>
+    <h2>Problems worth <span>solving</span></h2>
+    <p class="section-intro">Each project began with a real person and a real frustration. Here is how the engineering answered it.</p>
   </div>
   <div class="project-grid">
     <article class="project-card project-government">
-      <div class="project-topline"><span>Government · Digital services</span><span aria-hidden="true">01</span></div>
+      <div class="project-topline"><span>Digital government · Housing</span><span aria-hidden="true">01</span></div>
       <div class="project-icon" aria-hidden="true">⌂</div>
-      <h3>DubaiNow · Ejari &amp; Area Modification</h3>
-      <p>Mobile-enabled tenancy creation, renewal, and termination, plus area modification: server-driven journeys, contract progress stepper, Ejari history, digital contract signing via UAE Pass, secure payments, DEWA activation, site-plan retrieval, and downloadable title deeds.</p>
-      <span class="project-stack">Java 21 · Spring Boot · Microservices · Redis · FreeMarker · DLD &amp; DEWA APIs</span>
+      <h3>Ejari, without the paperwork</h3>
+      <p>Registering a lease involves landlords, tenants, fees and utilities all at once. Inside DubaiNow it becomes a guided, six-step journey: choose the property, invite the tenant, agree the rent, sign through UAE Pass, pay, and switch on DEWA before closing the app.</p>
+      <span class="project-stack">Java 21 · Spring Boot · FreeMarker · Redis · UAE Pass · DLD &amp; DEWA APIs</span>
     </article>
     <article class="project-card project-docunorm">
-      <div class="project-topline"><span>Government · Public safety</span><span aria-hidden="true">02</span></div>
+      <div class="project-topline"><span>Public safety · Climate</span><span aria-hidden="true">02</span></div>
       <div class="project-icon" aria-hidden="true">☂</div>
-      <h3>Dubai Police · Weather Forecast &amp; Flood Monitoring</h3>
-      <p>Spring Boot backend that predicts rainwater pooling across 5 Dubai Police sites (670,000+ m²): OpenID Connect SSO with the Dubai Police identity server, automated NCM weather ingestion and bilingual flood alerts, role-based admin APIs, secure file uploads, and mock government APIs for QA.</p>
-      <span class="project-stack">Java · Spring Boot · OIDC · OAuth2 · Oracle · WebLogic · NCM APIs</span>
+      <h3>Seeing the flood before it arrives</h3>
+      <p>In Dubai, a single heavy downpour can leave operational sites under water within hours. This platform reads national forecasts and station data, models how water will gather across five sites and 85 elevation zones, and alerts the right people in English and Arabic, all behind single sign-on.</p>
+      <span class="project-stack">Java · Spring Boot · OpenID Connect · Oracle · WebLogic · NCM APIs</span>
     </article>
     <article class="project-card project-banking">
-      <div class="project-topline"><span>Banking · Microservices</span><span aria-hidden="true">03</span></div>
+      <div class="project-topline"><span>Banking · Modernisation</span><span aria-hidden="true">03</span></div>
       <div class="project-icon" aria-hidden="true">▤</div>
-      <h3>RetailCore &amp; Credix 7.1</h3>
-      <p>Legacy banking re-architected into API-driven microservices—customer, address, and beneficiary management, third-party and external transfers, credit cards—plus centralized retail-credit analysis integrating core banking and loan origination.</p>
-      <span class="project-stack">Java 17 · Spring Boot · REST · MySQL · Oracle</span>
-    </article>
-    <article class="project-card project-genie">
-      <div class="project-topline"><span>AI · Productivity</span><span aria-hidden="true">04</span></div>
-      <div class="project-icon" aria-hidden="true">✳</div>
-      <h3>Email Reply Genie</h3>
-      <p>An AI-powered assistant that drafts thoughtful, tone-aware email replies in seconds.</p>
-      <a href="https://github.com/yuvaranianbu27/email-reply-genie" aria-label="View Email Reply Genie on GitHub">View project <span aria-hidden="true">→</span></a>
-    </article>
-    <article class="project-card project-store">
-      <div class="project-topline"><span>Full stack · E-commerce</span><span aria-hidden="true">05</span></div>
-      <div class="project-icon" aria-hidden="true">◇</div>
-      <h3>YR Store</h3>
-      <p>A full-stack e-commerce application pairing a React storefront with a Spring Boot REST API for a smooth, intuitive shopping experience.</p>
-      <a href="https://github.com/yuvaranianbu27/Yr-Store" aria-label="View YR Store on GitHub">View project <span aria-hidden="true">→</span></a>
+      <h3>A core bank, untangled</h3>
+      <p>RetailCore broke a monolithic banking core into focused services for customers, addresses, beneficiaries, transfers and cards, while Credix 7.1 brought core banking and loan origination together in one workbench for credit analysts.</p>
+      <span class="project-stack">Java 17 · Spring Boot · OAuth 2.0 · JWT · MySQL · Oracle</span>
     </article>
     <article class="project-card project-docunorm">
-      <div class="project-topline"><span>Digital commerce · Workflow</span><span aria-hidden="true">06</span></div>
+      <div class="project-topline"><span>Commerce · Knowledge</span><span aria-hidden="true">04</span></div>
       <div class="project-icon" aria-hidden="true">▧</div>
       <h3>DocuNorm</h3>
-      <p>A secure workflow-based platform for searching, previewing, and purchasing international standards (ISO, IEC, IEEE, ANSI, ASTM and more) with carts, secure payments, licence-based downloads, and admin controls.</p>
+      <p>Finding the right ISO or IEEE standard used to be a hunt. DocuNorm organised standards from eight bodies by industry, topic and code, let engineers preview before buying, and enforced licences on every download.</p>
       <span class="project-stack">Java · Spring · MySQL · Secure payments</span>
     </article>
+    <article class="project-card project-genie">
+      <div class="project-topline"><span>Side project · AI</span><span aria-hidden="true">05</span></div>
+      <div class="project-icon" aria-hidden="true">✳</div>
+      <h3>Email Reply Genie</h3>
+      <p>For the inbox that never seems to shrink: paste a message, choose a tone, and receive a polished draft from Google Gemini in a moment.</p>
+      <a href="https://github.com/yuvaranianbu27/Email-Reply-Genie" aria-label="View Email Reply Genie on GitHub">Explore the code <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="project-card project-store">
+      <div class="project-topline"><span>Side project · Full stack</span><span aria-hidden="true">06</span></div>
+      <div class="project-icon" aria-hidden="true">◇</div>
+      <h3>YR Store</h3>
+      <p>A storefront built from scratch to practise every layer at once: React on the surface, Spring Boot and JWT underneath, and Stripe handling the moment of purchase.</p>
+      <a href="https://github.com/yuvaranianbu27/YR-Store" aria-label="View YR Store on GitHub">Explore the code <span aria-hidden="true">→</span></a>
+    </article>
   </div>
-  <a class="all-projects" href="https://github.com/yuvaranianbu27?tab=repositories">More on GitHub <span aria-hidden="true">↗</span></a>
+  <a class="all-projects" href="https://github.com/yuvaranianbu27?tab=repositories">Wander through GitHub <span aria-hidden="true">↗</span></a>
 </section>
 
 <section class="section education-section" id="education">
   <div class="education-card">
     <div>
-      <p class="eyebrow">Education</p>
+      <p class="eyebrow">Foundations</p>
       <h2>Bachelor of Engineering</h2>
-      <p>Materials Science and Engineering</p>
+      <p>Materials Science and Engineering, where I first learned to think in systems</p>
     </div>
     <div class="education-detail">
       <strong>College of Engineering, Guindy</strong>
@@ -268,9 +263,9 @@ description: Full stack and Java backend engineer with five years of experience 
 
 <section class="section certifications-section" id="certifications">
   <div class="section-heading">
-    <p class="eyebrow">Learning &amp; recognition</p>
+    <p class="eyebrow">Proof of practice</p>
     <h2>Certifications</h2>
-    <p class="section-intro">Credentials and participation recognition from HackerRank and Digital Dubai Authority.</p>
+    <p class="section-intro">Small milestones that mark the learning along the way, each one verifiable with a click.</p>
   </div>
   <div class="certification-list">
     <article class="certification-card">
@@ -304,9 +299,9 @@ description: Full stack and Java backend engineer with five years of experience 
 </section>
 
 <section class="contact-section" id="contact">
-  <p class="eyebrow">Have a project in mind?</p>
-  <h2>Let’s build something <span>meaningful.</span></h2>
-  <p>I’m always glad to talk about full stack and backend engineering, digital-government platforms or new career opportunities.</p>
+  <p class="eyebrow">Building something that matters?</p>
+  <h2>Let’s make it <span>dependable.</span></h2>
+  <p>Whether it is a public service, a payments flow or an idea still on the whiteboard, I would be glad to hear what you are working on.</p>
   <div class="contact-actions">
     <a class="button button-light" href="mailto:yuvaranianbu27@gmail.com">Email me <span aria-hidden="true">↗</span></a>
     <a class="button button-linkedin" href="https://www.linkedin.com/in/yuvaranianbu" target="_blank" rel="noopener noreferrer" aria-label="Connect with Yuvarani Anbu on LinkedIn">
